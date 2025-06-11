@@ -1,0 +1,94 @@
+---
+title: "Open-Source Software, Science, and Coding"
+subtitle: "University College London"
+author: "Lewis A. Jones"
+format:
+  revealjs: 
+    theme: default
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: styles.css
+    footer: UCL Staff Away 2025
+---
+
+## Introduction
+
+- Lewis A. Jones (he/him)
+- NERC Independent Research Fellow (2024--2029)
+- Palaeobiologist 🪸
+- Open Science advocate
+
+![https://palaeoverse.org](https://palaeoverse.org/images/logo.png)
+
+## Content
+
+- ### What is Open Science? Does it matter? 🔬
+
+- ### What Open-Source resources are there? 🔓
+
+- ### Why should we code? 💻
+
+- ### What on Earth do we teach the students? 😱
+
+# Open Science
+
+## What is Open Science?
+
+## Does it matter?
+
+## How can we promote Open Science?
+
+- Menti
+
+## How can we be good ambassadors of Open Science?
+
+- POINTS
+
+# Open-Source Software
+
+### What is it?
+
+### Why should we care?
+
+## Resources
+
+## Open Science
+
+### What is it?
+
+### Why should we care?
+
+### How can we be good advocates?
+
+### FAIR
+
+### Funding requirements
+
+https://www.slideshare.net/slideshow/introduction-to-open-science-and-eosc/251490014#12
+
+### How to make data open?
+
+https://dam.ukdataservice.ac.uk/media/622417/managingsharing.pdf
+
+### What can we do to promote Open Science?
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## Bullets
+
+When you click the **Render** button a document will be generated that includes:
+
+-   Content authored with markdown
+-   Output from executable code
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
