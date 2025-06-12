@@ -9,56 +9,79 @@ format:
     chalkboard: 
       buttons: false
     preview-links: auto
-    css: styles.css
     footer: UCL Staff Away 2025
 ---
 
 ## Introduction
 
-- Lewis A. Jones (he/him)
-- NERC Independent Research Fellow (2024--2029)
-- Palaeobiologist 🪸
-- Open Science advocate
+-   Lewis A. Jones (he/him)
+-   NERC Independent Research Fellow (2024--2029)
+-   Palaeobiologist 🪸
+-   Open-Science advocate
 
 ![https://palaeoverse.org](https://palaeoverse.org/images/logo.png)
 
 ## Content
 
-- ### What is Open Science? Does it matter? 🔬
-
-- ### What Open-Source resources are there? 🔓
-
-- ### Why should we code? 💻
-
-- ### What on Earth do we teach the students? 😱
+- What is Open Science? Why does it matter? 🔬
+- What Open-Source resources are available? 🔓
+- Why should we code? 💻
+- What on Earth do we teach the students? 😱
 
 # Open Science
 
 ## What is Open Science?
 
-## Does it matter?
+***Open Science** is a movement and set of practices aimed at making scientific research more accessible, transparent, and reusable for everyone — not just for other scientists, but also for the public, educators, policymakers, and industry.*
+
+![Patrick Hochstenbach, 2012](images/os-cartoon-pub.png)
+
+## Open Science Values and Principles
+
+![UNESCO (2021)](images/unesco-open-science.png)
+
+## Content
+
+Benefits of Open Science:
+Promotes collaboration and trust in science.
+Makes research reproducible and verifiable.
+Helps avoid duplication of effort.
+Accelerates discovery and innovation.
+Increases the impact and visibility of research.
+Examples:
+Publishing in Open Access journals (like PLOS ONE or eLife).
+Depositing data in repositories like Zenodo or Dryad.
+Sharing code on platforms like GitHub.
+In short: Open Science = Science for Everyone — removing barriers to knowledge and enabling progress through transparency and sharing.
+
+Open Access:
+Research articles and data should be freely available to everyone, without paywalls or subscription barriers.
+Open Data:
+Raw data underlying scientific studies should be shared so others can verify results or reuse the data for new research.
+Open Source:
+Scientific software, code, and tools should be openly shared for inspection, improvement, and reuse.
+Open Methodology:
+Researchers should transparently document and share their methods, protocols, and workflows to ensure reproducibility.
+Open Peer Review:
+The peer-review process should be transparent, and sometimes even open to public participation or comment.
+Open Educational Resources:
+Teaching materials and learning resources should be freely accessible to educators and learners worldwide.
+
+## Why does Open Science matter?
 
 ## How can we promote Open Science?
 
-- Menti
+-   Menti
 
 ## How can we be good ambassadors of Open Science?
 
-- POINTS
+-   POINTS
 
 # Open-Source Software
-
-### What is it?
-
-### Why should we care?
 
 ## Resources
 
 ## Open Science
-
-### What is it?
-
-### Why should we care?
 
 ### How can we be good advocates?
 
@@ -74,21 +97,303 @@ https://dam.ukdataservice.ac.uk/media/622417/managingsharing.pdf
 
 ### What can we do to promote Open Science?
 
-## Quarto
+content
 
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+## What programming language(s) should we teach our students? {.smaller}
 
-## Bullets
+Points to consider:
 
-When you click the **Render** button a document will be generated that includes:
+- Should we even teach programming?
+- What do we already teach? And why?
+- What is the gateway programming language?
+- What resources are available to support teaching and learning?
+- What will make our students competitive now, and in the future?
+- Is there benefit in teaching multiple languages or developing strong skills in one?
+- What can we teach with our current skill set?
 
--   Content authored with markdown
--   Output from executable code
+# Why should we teach R?
 
-## Code
+## Why should we teach R?
 
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+#### R is Open-Source and Free
 
-```{r}
-1 + 1
+- Unlike costly proprietary software (e.g., SPSS, SAS, MATLAB), R is free and open-source
+- This makes it accessible to all students, even after graduation—an important equity consideration
+
+#### Encourages Reproducible Science
+
+- R (especially with R Markdown and Quarto) fosters reproducible data analysis, a growing priority in scientific and social research
+
+## Why should we teach R?
+
+#### Gentler learning curve
+
+```{r, eval=FALSE, echo=TRUE}
+library(dplyr)
+library(readr)
+# Example dataset: 'students.csv'
+# (Assume it has columns: Name, Age, Gender, Score, Passed)
+students <- read_csv("students.csv")
+
+clean_students <- students %>%
+  drop_na() %>%
+  filter(Age >= 18) %>%
+  select(Name, Age, Gender, Score) %>%
+  mutate(Grade = case_when(
+    Score >= 90 ~ "A",
+    Score >= 80 ~ "B",
+    Score >= 70 ~ "C",
+    TRUE        ~ "D"
+  )) %>%
+  arrange(desc(Score))
 ```
+
+## Why should we teach R?
+
+#### Gentler learning curve
+
+```{r, eval=FALSE, echo=TRUE}
+# Load necessary packages
+library(dplyr)
+library(readr)
+# 1. Load dataset
+# Example dataset: 'students.csv'
+# (Assume it has columns: Name, Age, Gender, Score, Passed)
+students <- read_csv("students.csv")
+# 2. Clean the data using dplyr
+clean_students <- students %>%
+  # Remove rows with any missing values
+  drop_na() %>%
+  # Filter students aged 18 or older
+  filter(Age >= 18) %>%
+  # Select only relevant columns
+  select(Name, Age, Gender, Score) %>%
+  # Create a new column 'Grade' based on Score
+  mutate(Grade = case_when(
+    Score >= 90 ~ "A",
+    Score >= 80 ~ "B",
+    Score >= 70 ~ "C",
+    TRUE        ~ "D"
+  )) %>%
+  # Arrange the data by Score in descending order
+  arrange(desc(Score))
+```
+
+## Why should we teach R?
+
+#### Teaches Logical and Computational Thinking
+
+- Builds skills in problem-solving, logic, algorithmic thinking
+
+#### Bridges Theory and Practice
+
+- Apply statistical and methodological concepts learnt in class to real data
+
+#### Transferable Skills
+
+- Skills learnt transferable to other languages like Python or Julia, as well as to general digital literacy
+
+## Why should we teach R?
+
+#### Widely Used in Research and Industry
+
+- R is widely used in academia and increasingly in industry (data science, analytics)
+- Learning R prepares students for both graduate research and job markets
+
+#### Massive Community and Learning Resources
+
+- R has an active community offering packages, tutorials, and forums—ideal for students to continue learning independently.
+
+# Packages {.smaller}
+
+Over 22,000 packages available on The Comprehensive R Archive Network
+
+## General Geoscience and Mapping {.smaller}
+
+-   geoscale: geological time scale plotting
+-   astrochron: a package for conducting, and learning about: (1) paleoclimate time series analysis, (2) astronomical time scale construction, and (3) the statistical integration of astrochronologies with other geochronologic/chronostratigraphic data.
+-   GEOmap: Topographic and geologic mapping
+-   geomapdata: Set of data for use in package GEOmap
+-   Globe: Plot 2D and 3D Views of the Earth
+-   terrainr: Landscape Visualizations in R and ‘Unity’
+-   terrainmeshr: Triangulate and simplify 3D terrain meshes
+-   RSAGA: SAGA geoprocessing and terrain analysis
+-   rayshader: Create Maps and Visualize Data in 2D and 3D
+-   earthtones: Derive a color palette from a particular location on Earth
+
+## Geostatistics {.smaller}
+
+-   geotoolsR: Tools to improve the use of geostatistic
+-   georob: Robust geostatistical analysis of spatial data
+-   gear: Geostatistical analysis in R
+-   gstat: Spatial and spatio-temporal geostatistical modeling, prediction, and simulation
+-   geostats: An introduction to statistics for geoscientists
+
+## Geochemistry {.smaller}
+
+-   rgr: Applied geochemistry exploratory data analysis
+-   isoplotR: Statistical toolbox for radiometric geochronology
+-   GCDkit: a system for handling and recalculation of whole-rock analyses from igneous rocks
+-   OrgMassSpecR: Organic/biological mass spectrometry data analysis
+-   CHNOSZ: Thermodynamic calculations and diagrams for geochemistry
+-   ggtern: Create ternary diagrams
+-   phreeqc: R Interface to Geochemical Modeling Software
+
+## Hydrology {.smaller}
+
+-   GWSDAT: Groundwater spatiotemporal data analysis tool
+-   streamDepletr: Estimate streamflow depletion due to groundwater pumping
+-   GlacierSMBM: Glacier surface mass balance model
+
+### Oil and Gas {.smaller}
+
+-   Rmbal: Estimate original hydrocarbon in place and reservoir performance
+-   Rpvt: Estimate the PVT properties of reservoir fluids
+
+### Structural Geology {.smaller}
+
+-   RockFab: Rock fabric and strain analysis tools
+
+## Palaeontology {.smaller}
+
+-   palaeoverse: Provides functionality to support data preparation and exploration for palaeobiological analyses
+-   tidypaleo: Provides a set of functions with a common framework for age-depth model management, stratigraphic visualization, and common statistical transformations
+-   paleobioDB: Download and process data from the paleobiology database
+-   fossil: Palaeoecological and palaeogeographical analysis tools
+-   FossilSim: Simulating taxonomy and fossil data on phylogenetic trees under mechanistic models of speciation, preservation and sampling
+-   strap: Stratigraphic tree analysis for paleontology
+-   folio: Datasets for teaching archaeology and paleontology
+-   chronosphere: A package to facilitate spatially explicit analyses of (paleo)environmental/ecological research
+
+## Provenance Analysis {.smaller}
+
+-   fingerPro: Sediment source fingerprinting
+-   provenance: Statistical toolbox for sedimentary provenance analysis - datasets included
+-   isoplotR: Statistical toolbox for radiometric geochronology
+
+### Seismicity {.smaller}
+
+-   ETAS: Modeling earthquake data using ‘ETAS’ model datasets included
+-   bayesainETAS: Bayesian estimation of the ETAS model for earthquake occurrences
+-   GRTo: Tools for the analysis of Gutenberg-Richter distributions of earthquake magnitudes
+-   TauP.R: Earthquake traveltime calculations for 1D earth models - datasets included
+
+## Stratigraphy {.smaller}
+
+-   stratigrapheR - Integrated stratigraphy tools for plotting stratigraphic data
+-   SDAR - A tool for plotting and facilitating the analysis of stratigraphic and sedimentological data
+-   coreCT - Programmatic analysis of sediment cores using computed tomography imaging
+-   G2sd - Grain-size statistics and description of sediment
+-   EMMAgeo - End-member modeling of grain-size data
+-   DecomposeR - Empirical model decomposition for cyclostratigraphy
+
+## (Palaeo-)Climate {.smaller}
+
+-   climate: Automatize downloading of meteorological and hydrological data from publicly available repositories
+-   climatol: an R package holding functions for quality control, homogenization and missing data in-filling of climatological series
+-   rpaleoclim: high resolution paleoclimate surfaces covering the whole globe
+-   pastclim: an R package to easily access and use paleoclimatic reconstructions
+-   climetrics: an R package to quantify multiple dimensions of climate change
+-   geodata: Functions for downloading of geographic data for use in spatial analysis and mapping
+-   stagg: A data pre-processing R package for climate impacts analysis
+
+## Remote Sensing and Spatial Analysis {.smaller}
+
+-   RStoolbox: Toolbox for remote sensing image processing and analysis
+-   sf: Support for simple feature access, a standardized way to encode and analyze spatial vector data
+-   terra: Methods for spatial data analysis with vector (points, lines, polygons) and raster (grid) data
+-   stars: Reading, manipulating, writing and plotting spatiotemporal arrays
+
+# Community Resources
+
+## CRAN Task Views {.smaller}
+
+|  |  |
+|------------------------------------|------------------------------------|
+| [ActuarialScience](https://cran.r-project.org/web/views/ActuarialScience.html) | Actuarial Science |
+| [Agriculture](https://cran.r-project.org/web/views/Agriculture.html) | Agricultural Science |
+| [Bayesian](https://cran.r-project.org/web/views/Bayesian.html) | Bayesian Inference |
+| [CausalInference](https://cran.r-project.org/web/views/CausalInference.html) | Causal Inference |
+| [ChemPhys](https://cran.r-project.org/web/views/ChemPhys.html) | Chemometrics and Computational Physics |
+| [Cluster](https://cran.r-project.org/web/views/Cluster.html) | Cluster Analysis & Finite Mixture Models |
+| [CompositionalData](https://cran.r-project.org/web/views/CompositionalData.html) | Compositional Data Analysis |
+| [Databases](https://cran.r-project.org/web/views/Databases.html) | Databases with R |
+| [DifferentialEquations](https://cran.r-project.org/web/views/DifferentialEquations.html) | Differential Equations |
+| [Distributions](https://cran.r-project.org/web/views/Distributions.html) | Probability Distributions |
+| [DynamicVisualizations](https://cran.r-project.org/web/views/DynamicVisualizations.html) | Dynamic Visualizations and Interactive Graphics |
+
+## CRAN Task Views {.smaller}
+
+|  |  |
+|------------------------------------|------------------------------------|
+| [Environmetrics](https://cran.r-project.org/web/views/Environmetrics.html) | Analysis of Ecological and Environmental Data |
+| [ExperimentalDesign](https://cran.r-project.org/web/views/ExperimentalDesign.html) | Design of Experiments (DoE) & Analysis of Experimental Data |
+| [ExtremeValue](https://cran.r-project.org/web/views/ExtremeValue.html) | Extreme Value Analysis |
+| [FunctionalData](https://cran.r-project.org/web/views/FunctionalData.html) | Functional Data Analysis |
+| [GraphicalModels](https://cran.r-project.org/web/views/GraphicalModels.html) | Graphical Models |
+| [HighPerformanceComputing](https://cran.r-project.org/web/views/HighPerformanceComputing.html) | High-Performance and Parallel Computing with R |
+| [Hydrology](https://cran.r-project.org/web/views/Hydrology.html) | Hydrological Data and Modeling |
+| [MachineLearning](https://cran.r-project.org/web/views/MachineLearning.html) | Machine Learning & Statistical Learning |
+| [MetaAnalysis](https://cran.r-project.org/web/views/MetaAnalysis.html) | Meta-Analysis |
+| [MissingData](https://cran.r-project.org/web/views/MissingData.html) | Missing Data |
+
+## CRAN Task Views {.smaller}
+
+|  |  |
+|------------------------------------|------------------------------------|
+| [MixedModels](https://cran.r-project.org/web/views/MixedModels.html) | Mixed, Multilevel, and Hierarchical Models in R |
+| [ModelDeployment](https://cran.r-project.org/web/views/ModelDeployment.html) | Model Deployment with R |
+| [NaturalLanguageProcessing](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html) | Natural Language Processing |
+| [NetworkAnalysis](https://cran.r-project.org/web/views/NetworkAnalysis.html) | Network Analysis |
+| [NumericalMathematics](https://cran.r-project.org/web/views/NumericalMathematics.html) | Numerical Mathematics |
+| [OfficialStatistics](https://cran.r-project.org/web/views/OfficialStatistics.html) | Official Statistics & Survey Statistics |
+| [Omics](https://cran.r-project.org/web/views/Omics.html) | Genomics, Proteomics, Metabolomics, Transcriptomics, and Other Omics |
+| [Optimization](https://cran.r-project.org/web/views/Optimization.html) | Optimization and Mathematical Programming |
+
+## CRAN Task Views {.smaller}
+
+|  |  |
+|------------------------------------|------------------------------------|
+| [Paleontology](https://cran.r-project.org/web/views/Paleontology.html) | Paleontology |
+| [Phylogenetics](https://cran.r-project.org/web/views/Phylogenetics.html) | Phylogenetics |
+| [ReproducibleResearch](https://cran.r-project.org/web/views/ReproducibleResearch.html) | Reproducible Research |
+| [Robust](https://cran.r-project.org/web/views/Robust.html) | Robust Statistical Methods |
+| [Spatial](https://cran.r-project.org/web/views/Spatial.html) | Analysis of Spatial Data |
+| [SpatioTemporal](https://cran.r-project.org/web/views/SpatioTemporal.html) | Handling and Analyzing Spatio-Temporal Data |
+| [Survival](https://cran.r-project.org/web/views/Survival.html) | Survival Analysis |
+| [TeachingStatistics](https://cran.r-project.org/web/views/TeachingStatistics.html) | Teaching Statistics |
+| [TimeSeries](https://cran.r-project.org/web/views/TimeSeries.html) | Time Series Analysis |
+| [Tracking](https://cran.r-project.org/web/views/Tracking.html) | Processing and Analysis of Tracking Data |
+| [WebTechnologies](https://cran.r-project.org/web/views/WebTechnologies.html) | Web Technologies and Services |
+
+## Books
+
+- [Intro to R](https://intro2r.com)
+- [R for Data Science](https://r4ds.had.co.nz)
+- [Advanced R](https://adv-r.hadley.nz)
+- [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org)
+- [R Packages](https://r-pkgs.org)
+- [Geocomputation with R](https://r.geocompx.org)
+- [Remote Sensing Image Analysis with R](https://rspatial.org/rs/rs.pdf)
+
+## Action
+
+Menti
+
+## Is a dedicated module for teaching computational skills needed? {.smaller}
+
+#### *Computational Skills for Earth Scientists (Introduction and/or Advanced)*
+
+Points to consider:
+
+- Do the students need it? How would it benefit them?
+- What would this module look like?
+- Who could lead such a module? Could we all contribute?
+- Could these skills be built up through existing modules?
+
+## Action
+
+Menti
+
+
+
