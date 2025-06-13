@@ -1,103 +1,317 @@
 ---
-title: "Open-Source Software, Science, and Coding"
-subtitle: "University College London"
-author: "Lewis A. Jones"
+title: "Open Science, Software, and Coding"
+author: "Lewis A. Jones <br> UCL Staff Away Day 2025"
 format:
   revealjs: 
-    theme: default
+    theme: [simple, custom.scss]
     slide-number: true
     chalkboard: 
       buttons: false
     preview-links: auto
-    footer: UCL Staff Away 2025
+    footer: "UCL Staff Away Day 2025"
 ---
 
-## Introduction
+## Introduction {.smaller}
 
 -   Lewis A. Jones (he/him)
 -   NERC Independent Research Fellow (2024--2029)
 -   Palaeobiologist 🪸
 -   Open-Science advocate
 
-![https://palaeoverse.org](https://palaeoverse.org/images/logo.png)
+![https://palaeoverse.org](https://palaeoverse.org/images/logo.png){width="100%"}
 
-## Content
+## Schedule
 
-- What is Open Science? Why does it matter? 🔬
-- What Open-Source resources are available? 🔓
-- Why should we code? 💻
-- What on Earth do we teach the students? 😱
+- 11:30--11:55: Open Science
+- 11:55--12:00: Break
+- 12:00--12:25: Open-Source Software Resources
+- 12:25--12:30: Break
+- 12:30--13:00: Building Computational Literacy
 
-# Open Science
+## Open Science
 
-## What is Open Science?
+1. What is Open Science?
+2. Core values and guiding principles
+3. Why does Open Science matter?
+4. How can we promote Open Science as a department?
+5. How can we integrate Open Science skills and knowledge into teaching?
+
+# What is Open Science?
+
+## What is Open Science? {.smaller}
+
+:::: {.columns}
+
+::: {.column width="70%"}
+***Open Science** is defined as an inclusive construct that combines various movements and practices aiming to make multilingual scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community. It comprises all scientific disciplines and aspects of scholarly practices, including basic and applied sciences, natural and social sciences and the humanities, and it builds on the following key pillars: open scientific knowledge, open science infrastructures, science communication, open engagement of societal actors and open dialogue with other knowledge systems.* -- UNESCO, 2021
+:::
+
+::: {.column width="30%"}
+![[UNESCO Recommendation on Open Science, 2021](https://www.unesco.org/en/open-science/about)](images/unesco2021.jpeg)
+:::
+
+::::
+
+## What is Open Science? {.smaller}
 
 ***Open Science** is a movement and set of practices aimed at making scientific research more accessible, transparent, and reusable for everyone — not just for other scientists, but also for the public, educators, policymakers, and industry.*
 
 ![Patrick Hochstenbach, 2012](images/os-cartoon-pub.png)
 
+# Open Science Values and Principles
+
 ## Open Science Values and Principles
 
 ![UNESCO (2021)](images/unesco-open-science.png)
 
-## Content
+## Values {.smaller}
 
-Benefits of Open Science:
-Promotes collaboration and trust in science.
-Makes research reproducible and verifiable.
-Helps avoid duplication of effort.
-Accelerates discovery and innovation.
-Increases the impact and visibility of research.
-Examples:
-Publishing in Open Access journals (like PLOS ONE or eLife).
-Depositing data in repositories like Zenodo or Dryad.
-Sharing code on platforms like GitHub.
-In short: Open Science = Science for Everyone — removing barriers to knowledge and enabling progress through transparency and sharing.
+***Quality and integrity:** Open Science should respect academic freedom and human rights and support high-quality research by bringing together multiple sources of knowledge and making research methods and outputs widely available for rigorous review and scrutiny, and transparent evaluation processes.* -- UNESCO, 2021
 
-Open Access:
-Research articles and data should be freely available to everyone, without paywalls or subscription barriers.
-Open Data:
-Raw data underlying scientific studies should be shared so others can verify results or reuse the data for new research.
-Open Source:
-Scientific software, code, and tools should be openly shared for inspection, improvement, and reuse.
-Open Methodology:
-Researchers should transparently document and share their methods, protocols, and workflows to ensure reproducibility.
-Open Peer Review:
-The peer-review process should be transparent, and sometimes even open to public participation or comment.
-Open Educational Resources:
-Teaching materials and learning resources should be freely accessible to educators and learners worldwide.
+<br>
 
-## Why does Open Science matter?
+**TL;DR:** Open Science upholds academic freedom and human rights while fostering high-quality research through openness, inclusivity, transparency, and rigorous peer review.
 
-## How can we promote Open Science?
+## Values {.smaller}
 
--   Menti
+***Collective benefit:** as a global public good, open science should belong to humanity in common and benefit humanity as a whole. To this end, scientific knowledge should be openly available and its benefits universally shared. The practice of science should be inclusive, sustainable and equitable, also in opportunities for scientific education and capacity development.* -- UNESCO, 2021
 
-## How can we be good ambassadors of Open Science?
+<br>
 
--   POINTS
+**TL;DR:** Open Science is shared, inclusive, and equitable global good benefiting all of humanity.
+
+## Values {.smaller}
+
+***Equity and fairness:** open science should play a significant role in ensuring equity among researchers from developed and developing countries, enabling fair and reciprocal sharing of scientific inputs and outputs and equal access to scientific knowledge to both producers and consumers of knowledge regardless of location, nationality, race, age, gender, income, socio-economic circumstances, career stage, discipline, language, religion, disability, ethnicity or migratory status, or any other grounds.* -- UNESCO, 2021
+
+<br>
+
+**TL;DR:** Open Science ensures equitable access and participation for all researchers, regardless of background or location.
+
+## Values {.smaller}
+
+***Diversity and inclusiveness:** open science should embrace a diversity of knowledge, practices, workflows, languages, research outputs and research topics that support the needs and epistemic pluralism of the scientific community as a whole, diverse research communities and scholars, as well as the wider public and knowledge holders beyond the traditional scientific community, including indigenous peoples and local communities, and social actors from different countries and regions, as appropriate.* -- UNESCO, 2021
+
+<br>
+
+**TL;DR:** Open Science embraces and values diverse knowledge systems, practices, and voices within and beyond the scientific community.
+
+## Principles {.smaller}
+
+***Transparency, scrutiny, critique and reproducibility:** increased openness should be promoted in all stages of the scientific endeavour, with the view to reinforcing the strength and rigour of scientific results, enhancing the societal impact of science and increasing the capacity of society as a whole to solve complex interconnected problems. Increased openness leads to increased transparency and trust in scientific information and reinforces the fundamental feature of science as a distinct form of knowledge based on evidence and tested against reality, logic and the scrutiny of scientific peers.* -- UNESCO, 2021
+
+<br>
+
+**TL;DR:** Open Science strengthens scientific rigor, transparency, trust, and society’s ability to address complex challenges.
+
+## Principles {.smaller}
+
+***Equality of opportunities:** all scientists and other open science actors and stakeholders, regardless of location, nationality, race, age, gender, income, socio-economic circumstances, career stage, discipline, language, religion, disability, ethnicity or migratory status, or any other grounds, have an equal opportunity to access, and contribute to and benefit from open science.* -- UNESCO, 2021
+
+<br>
+
+**TL;DR:** Open Science ensures equal opportunity for all to access, contribute to, and benefit from scientific knowledge.
+
+## Principles {.smaller}
+
+***Responsibility, respect and accountability:** with greater openness comes greater responsibility for all open science actors, which, together with public accountability, sensitivity to conflicts of interest, vigilance as to possible social and ecological consequences of research activities, intellectual integrity and respect for ethical principles and implications pertaining to research, should form the basis for good governance of open science.* -- UNESCO, 2021
+
+<br>
+
+**TL;DR:** Open Science demands responsibility, integrity, and ethical accountability.
+
+## Principles {.smaller}
+
+***Collaboration, participation and inclusion:** collaborations at all levels of the scientific process, beyond the boundaries of geography, language, generations and resources, should become the norm, and collaboration between disciplines should be promoted, together with the full and effective participation of societal actors and inclusion of knowledge from marginalized communities in solving problems of social importance.* -- UNESCO, 2021
+
+<br>
+
+**TL;DR:** Open Science requires inclusive, cross-disciplinary, and global collaboration to address societal challenges.
+
+## Principles {.smaller}
+
+***Flexibility:** due to the diversity of science systems, actors and capacities across the world, as well as the evolving nature of supporting information and communication technologies, there is no one-size-fits-all way of practicing open science. Different pathways of transition to and practice of open science need to be encouraged while upholding the above-mentioned core values and maximizing adherence to the other principles hereby presented.* -- UNESCO, 2021
+
+<br>
+
+**TL;DR:** Open Science requires flexible, context-specific approaches guided by shared core values.
+
+## Principles {.smaller}
+
+***Sustainability:** to be as efficient and impactful as possible, open science should build on long-term practices, services, infrastructures and funding models that ensure the equal participation of scientific producers from less privileged institutions and countries. Open science infrastructures should be organized and financed upon an essentially not-for-profit and long-term vision, which enhance open science practices and guarantee permanent and unrestricted access to all, to the largest extent possible.* -- UNESCO, 2021
+
+<br>
+
+**TL;DR:** Open Science requires sustainable, inclusive, and not-for-profit infrastructures ensuring equal global participation and access.
+
+# Why does Open Science matter?
+
+## Why does Open Science matter? {.smaller}
+
+- Increases accessibility to scientific knowledge for all
+- Enhances transparency and trust in research processes and results
+- Accelerates discovery and innovation through wider data and knowledge sharing
+- Improves research quality by enabling verification and reproducibility
+- Fosters global collaboration across disciplines, regions, and cultures
+- Promotes equity and inclusion by involving underrepresented communities and researchers
+- Maximises societal impact by making research outcomes available for public benefit
+- Encourages responsible and ethical science through openness and accountability
+- **Funders may require it** (e.g. NERC requires environmental data collected from the activities it funds to be made openly available within two years of their collection)
+
+# How can we promote Open Science as a department?
+
+## How can we promote Open Science as a department? {.smaller}
+
+Points to consider:
+
+- What are we already doing well? Do we know?
+- What could we do more of?
+- How would we support such actions?
+
+```{R}
+library(countdown)
+countdown(minutes = 5, seconds = 0, font_size = "3em")
+```
+
+## How can we promote Open Science as a department? {.smaller}
+
+- **Publishing:** Encourage publishing in open-access journals/repositories
+- **Share Data and Code:** Make datasets, models, software, and workflows publicly available with clear metadata
+- **Use and Contribute to Open Infrastructures:** Support community-driven resources
+- **Implement Open Science Training:** Offer workshops on open data management, reproducibility, licensing
+- **Recognise and Reward Open Practices:** Include open science contributions in hiring, promotion, grant evaluations
+- **Adopt Transparent Processes:** Pre-register studies, share methods, document research
+- **Develop Sustainable Open Science Policies:** Create departmental guidelines that support open, ethical, responsible  practices
+
+# How can we integrate Open Science skills and knowledge into teaching? {.smaller}
+
+## How can we integrate Open Science skills and knowledge into teaching? {.smaller}
+
+Points to consider:
+
+- Should we?
+- What Open Science skills and knowledge would students benefit from?
+- How would we deliver those skills and knowledge?
+- What does success look like?
+
+```{R}
+countdown(minutes = 5, seconds = 0, font_size = "3em")
+```
+
+## How can we integrate Open Science skills and knowledge into teaching? {.smaller}
+
+- **Include Open Science Principles in the Curriculum**
+  -  Teach the values of transparency, reproducibility, and accessibility in research
+- **Teach Data Sharing and Management**
+- **Promote Open Source Tools**
+- **Incorporate Reproducible Research Practices**
+- **Introduce Pre-registration and Open Peer Review**
+- **Assign Open Publication Projects**
+- **Encourage Citizen Science Participation**
+- **Discuss Ethics and Equity in Open Science**
+- **Model Open Practices as Instructors**
+
+# Break
+
+```{R}
+countdown(minutes = 5, seconds = 0, font_size = "3em")
+```
 
 # Open-Source Software
 
-## Resources
+## Open-Source Software {.smaller}
 
-## Open Science
+1. What is Open-Source Software?
+2. Why use Open-Source Software?
+3. What resources are available?
+4. Quarto, what's that?
 
-### How can we be good advocates?
+## What is Open-Source Software? {.smaller}
 
-### FAIR
+**Open-Source Software** is software whose source code is made freely available for anyone to view, use, modify, and distribute (e.g. QGIS). This means that individuals or organisations can study how the software works, improve it, fix bugs, or adapt it to their needs without needing to ask for permission. This contrasts with closed-source software, where the source code is proprietary and not generally available for public use or modification (e.g. ArcGIS).
 
-### Funding requirements
+## Why use Open-Source Software? {.smaller}
 
-https://www.slideshare.net/slideshow/introduction-to-open-science-and-eosc/251490014#12
+#### Transparency and Reproducibility
+Researchers can inspect how the software works, verify and reproduce results.
 
-### How to make data open?
+#### Cost-Effectiveness
+Avoid expensive licensing fees. Accessible regardless of budget.
 
-https://dam.ukdataservice.ac.uk/media/622417/managingsharing.pdf
+#### Customization and Flexibility
+Researchers can modify or extend the software to fit their specific needs.
 
-### What can we do to promote Open Science?
+#### Community Support and Collaboration
+Communities collaborate on software development, accelerating innovation.
 
-content
+#### Longevity and Independence
+Less likely to disappear if a company stops supporting it.
+
+#### Skill Development
+Teaches valuable programming, data analysis, and software development skills.
+
+#### Encourages Open Science
+Open-source software aligns with the principles of open access and open data.
+
+# What resources are available?
+
+## What resources are available? {.smaller}
+
+### SO MANY 
+
+#### Writing & Document Preparation
+
+- LibreOffice – Full office suite (word processing, spreadsheets, presentations)
+- LaTeX / TeX Live / MiKTeX – High-quality typesetting for scientific papers
+- Overleaf (Community Edition) – Collaborative LaTeX editor
+- LyX - Document processor that uses LaTeX but offers a user-friendly interface
+- Zettlr – Markdown editor with citation support for academic writing
+- Pandoc – Universal document converter
+
+#### Reference & Citation Management
+
+- Zotero – Citation manager with browser plugins and word processor integration
+- JabRef – Open-source BibTeX reference manager for LaTeX users
+- Docear - Academic literature management and mind-mapping tool
+
+## What resources are available? {.smaller}
+
+#### Data Analysis & Statistics
+
+- R / RStudio (Open Source Version) – Statistical computing and graphics
+- Python (with SciPy, NumPy, pandas, Matplotlib, etc.) – General scientific computing
+- JASP – User-friendly GUI for Bayesian and classical statistics
+- PSPP – SPSS alternative for statistical analysis
+- KNIME - Open-source data analytics, reporting, and integration platform
+
+#### Drawing & Visualisation
+
+- Inkscape – Vector graphics editor
+- GIMP - Raster graphics editor
+- Blender - 3D modeling, rendering, and animation software
+- Plotly - Interactive plotting libraries
+- Gnuplot – Command-line plotting
+- Graphviz – Graph visualization
+- Gephi – Network analysis and visualization
+
+# Quarto, what's that?
+
+[https://quarto.org](https://quarto.org)
+
+## Quarto, what's that? {.smaller}
+
+**An open-source scientific and technical publishing system**
+
+- Author using plain text markdown
+- Create dynamic content with Python, R, Julia, and Observable
+- Publish reproducible, production quality articles, presentations, dashboards, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more
+- Write using Pandoc markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more
+
+# Quarto, what's that? Demonstration
+
+[https://quarto.org](https://quarto.org)
+
+# Building Computational Literacy
 
 ## What programming language(s) should we teach our students? {.smaller}
 
