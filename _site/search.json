@@ -1,0 +1,352 @@
+[
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "Open Science, Software, and Coding",
+    "section": "Introduction",
+    "text": "Introduction\n\nLewis A. Jones (he/him)\nNERC Independent Research Fellow (2024–2029)\nPalaeobiologist 🪸\nOpen-Science advocate\n\n\nhttps://palaeoverse.org"
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "Open Science, Software, and Coding",
+    "section": "Schedule",
+    "text": "Schedule\n\n11:30–11:55: Open Science\n11:55–12:00: Break\n12:00–12:25: Open-Source Software Resources\n12:25–12:30: Break\n12:30–13:00: Building Computational Literacy"
+  },
+  {
+    "objectID": "index.html#open-science",
+    "href": "index.html#open-science",
+    "title": "Open Science, Software, and Coding",
+    "section": "Open Science",
+    "text": "Open Science\n\nWhat is Open Science?\nCore values and guiding principles\nWhy does Open Science matter?\nHow can we promote Open Science as a department?\nHow can we integrate Open Science skills and knowledge into teaching?"
+  },
+  {
+    "objectID": "index.html#what-is-open-science-1",
+    "href": "index.html#what-is-open-science-1",
+    "title": "Open Science, Software, and Coding",
+    "section": "What is Open Science?",
+    "text": "What is Open Science?\n\n\nOpen Science is defined as an inclusive construct that combines various movements and practices aiming to make multilingual scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community. It comprises all scientific disciplines and aspects of scholarly practices, including basic and applied sciences, natural and social sciences and the humanities, and it builds on the following key pillars: open scientific knowledge, open science infrastructures, science communication, open engagement of societal actors and open dialogue with other knowledge systems. – UNESCO, 2021\n\n\n\n\nUNESCO Recommendation on Open Science, 2021"
+  },
+  {
+    "objectID": "index.html#what-is-open-science-2",
+    "href": "index.html#what-is-open-science-2",
+    "title": "Open Science, Software, and Coding",
+    "section": "What is Open Science?",
+    "text": "What is Open Science?\nOpen Science is a movement and set of practices aimed at making scientific research more accessible, transparent, and reusable for everyone — not just for other scientists, but also for the public, educators, policymakers, and industry.\n\nPatrick Hochstenbach, 2012"
+  },
+  {
+    "objectID": "index.html#open-science-values-and-principles-1",
+    "href": "index.html#open-science-values-and-principles-1",
+    "title": "Open Science, Software, and Coding",
+    "section": "Open Science Values and Principles",
+    "text": "Open Science Values and Principles\n\nUNESCO (2021)"
+  },
+  {
+    "objectID": "index.html#values",
+    "href": "index.html#values",
+    "title": "Open Science, Software, and Coding",
+    "section": "Values",
+    "text": "Values\nQuality and integrity: Open Science should respect academic freedom and human rights and support high-quality research by bringing together multiple sources of knowledge and making research methods and outputs widely available for rigorous review and scrutiny, and transparent evaluation processes. – UNESCO, 2021\n\nTL;DR: Open Science upholds academic freedom and human rights while fostering high-quality research through openness, inclusivity, transparency, and rigorous peer review."
+  },
+  {
+    "objectID": "index.html#values-1",
+    "href": "index.html#values-1",
+    "title": "Open Science, Software, and Coding",
+    "section": "Values",
+    "text": "Values\nCollective benefit: as a global public good, open science should belong to humanity in common and benefit humanity as a whole. To this end, scientific knowledge should be openly available and its benefits universally shared. The practice of science should be inclusive, sustainable and equitable, also in opportunities for scientific education and capacity development. – UNESCO, 2021\n\nTL;DR: Open Science is shared, inclusive, and equitable global good benefiting all of humanity."
+  },
+  {
+    "objectID": "index.html#values-2",
+    "href": "index.html#values-2",
+    "title": "Open Science, Software, and Coding",
+    "section": "Values",
+    "text": "Values\nEquity and fairness: open science should play a significant role in ensuring equity among researchers from developed and developing countries, enabling fair and reciprocal sharing of scientific inputs and outputs and equal access to scientific knowledge to both producers and consumers of knowledge regardless of location, nationality, race, age, gender, income, socio-economic circumstances, career stage, discipline, language, religion, disability, ethnicity or migratory status, or any other grounds. – UNESCO, 2021\n\nTL;DR: Open Science ensures equitable access and participation for all researchers, regardless of background or location."
+  },
+  {
+    "objectID": "index.html#values-3",
+    "href": "index.html#values-3",
+    "title": "Open Science, Software, and Coding",
+    "section": "Values",
+    "text": "Values\nDiversity and inclusiveness: open science should embrace a diversity of knowledge, practices, workflows, languages, research outputs and research topics that support the needs and epistemic pluralism of the scientific community as a whole, diverse research communities and scholars, as well as the wider public and knowledge holders beyond the traditional scientific community, including indigenous peoples and local communities, and social actors from different countries and regions, as appropriate. – UNESCO, 2021\n\nTL;DR: Open Science embraces and values diverse knowledge systems, practices, and voices within and beyond the scientific community."
+  },
+  {
+    "objectID": "index.html#principles",
+    "href": "index.html#principles",
+    "title": "Open Science, Software, and Coding",
+    "section": "Principles",
+    "text": "Principles\nTransparency, scrutiny, critique and reproducibility: increased openness should be promoted in all stages of the scientific endeavour, with the view to reinforcing the strength and rigour of scientific results, enhancing the societal impact of science and increasing the capacity of society as a whole to solve complex interconnected problems. Increased openness leads to increased transparency and trust in scientific information and reinforces the fundamental feature of science as a distinct form of knowledge based on evidence and tested against reality, logic and the scrutiny of scientific peers. – UNESCO, 2021\n\nTL;DR: Open Science strengthens scientific rigor, transparency, trust, and society’s ability to address complex challenges."
+  },
+  {
+    "objectID": "index.html#principles-1",
+    "href": "index.html#principles-1",
+    "title": "Open Science, Software, and Coding",
+    "section": "Principles",
+    "text": "Principles\nEquality of opportunities: all scientists and other open science actors and stakeholders, regardless of location, nationality, race, age, gender, income, socio-economic circumstances, career stage, discipline, language, religion, disability, ethnicity or migratory status, or any other grounds, have an equal opportunity to access, and contribute to and benefit from open science. – UNESCO, 2021\n\nTL;DR: Open Science ensures equal opportunity for all to access, contribute to, and benefit from scientific knowledge."
+  },
+  {
+    "objectID": "index.html#principles-2",
+    "href": "index.html#principles-2",
+    "title": "Open Science, Software, and Coding",
+    "section": "Principles",
+    "text": "Principles\nResponsibility, respect and accountability: with greater openness comes greater responsibility for all open science actors, which, together with public accountability, sensitivity to conflicts of interest, vigilance as to possible social and ecological consequences of research activities, intellectual integrity and respect for ethical principles and implications pertaining to research, should form the basis for good governance of open science. – UNESCO, 2021\n\nTL;DR: Open Science demands responsibility, integrity, and ethical accountability."
+  },
+  {
+    "objectID": "index.html#principles-3",
+    "href": "index.html#principles-3",
+    "title": "Open Science, Software, and Coding",
+    "section": "Principles",
+    "text": "Principles\nCollaboration, participation and inclusion: collaborations at all levels of the scientific process, beyond the boundaries of geography, language, generations and resources, should become the norm, and collaboration between disciplines should be promoted, together with the full and effective participation of societal actors and inclusion of knowledge from marginalized communities in solving problems of social importance. – UNESCO, 2021\n\nTL;DR: Open Science requires inclusive, cross-disciplinary, and global collaboration to address societal challenges."
+  },
+  {
+    "objectID": "index.html#principles-4",
+    "href": "index.html#principles-4",
+    "title": "Open Science, Software, and Coding",
+    "section": "Principles",
+    "text": "Principles\nFlexibility: due to the diversity of science systems, actors and capacities across the world, as well as the evolving nature of supporting information and communication technologies, there is no one-size-fits-all way of practicing open science. Different pathways of transition to and practice of open science need to be encouraged while upholding the above-mentioned core values and maximizing adherence to the other principles hereby presented. – UNESCO, 2021\n\nTL;DR: Open Science requires flexible, context-specific approaches guided by shared core values."
+  },
+  {
+    "objectID": "index.html#principles-5",
+    "href": "index.html#principles-5",
+    "title": "Open Science, Software, and Coding",
+    "section": "Principles",
+    "text": "Principles\nSustainability: to be as efficient and impactful as possible, open science should build on long-term practices, services, infrastructures and funding models that ensure the equal participation of scientific producers from less privileged institutions and countries. Open science infrastructures should be organized and financed upon an essentially not-for-profit and long-term vision, which enhance open science practices and guarantee permanent and unrestricted access to all, to the largest extent possible. – UNESCO, 2021\n\nTL;DR: Open Science requires sustainable, inclusive, and not-for-profit infrastructures ensuring equal global participation and access."
+  },
+  {
+    "objectID": "index.html#why-does-open-science-matter-1",
+    "href": "index.html#why-does-open-science-matter-1",
+    "title": "Open Science, Software, and Coding",
+    "section": "Why does Open Science matter?",
+    "text": "Why does Open Science matter?\n\nIncreases accessibility to scientific knowledge for all\nEnhances transparency and trust in research processes and results\nAccelerates discovery and innovation through wider data and knowledge sharing\nImproves research quality by enabling verification and reproducibility\nFosters global collaboration across disciplines, regions, and cultures\nPromotes equity and inclusion by involving underrepresented communities and researchers\nMaximises societal impact by making research outcomes available for public benefit\nEncourages responsible and ethical science through openness and accountability\nFunders may require it (e.g. NERC requires environmental data collected from the activities it funds to be made openly available within two years of their collection)"
+  },
+  {
+    "objectID": "index.html#how-can-we-promote-open-science-as-a-department-1",
+    "href": "index.html#how-can-we-promote-open-science-as-a-department-1",
+    "title": "Open Science, Software, and Coding",
+    "section": "How can we promote Open Science as a department?",
+    "text": "How can we promote Open Science as a department?\nPoints to consider:\n\nWhat are we already doing well? Do we know?\nWhat could we do more of?\nHow would we support such actions?\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "index.html#how-can-we-promote-open-science-as-a-department-2",
+    "href": "index.html#how-can-we-promote-open-science-as-a-department-2",
+    "title": "Open Science, Software, and Coding",
+    "section": "How can we promote Open Science as a department?",
+    "text": "How can we promote Open Science as a department?\n\nPublishing: Encourage publishing in open-access journals/repositories\nShare Data and Code: Make datasets, models, software, and workflows publicly available with clear metadata\nUse and Contribute to Open Infrastructures: Support community-driven resources\nImplement Open Science Training: Offer workshops on open data management, reproducibility, licensing\nRecognise and Reward Open Practices: Include open science contributions in hiring, promotion, grant evaluations\nAdopt Transparent Processes: Pre-register studies, share methods, document research\nDevelop Sustainable Open Science Policies: Create departmental guidelines that support open, ethical, responsible practices"
+  },
+  {
+    "objectID": "index.html#how-can-we-integrate-open-science-skills-and-knowledge-into-teaching-1",
+    "href": "index.html#how-can-we-integrate-open-science-skills-and-knowledge-into-teaching-1",
+    "title": "Open Science, Software, and Coding",
+    "section": "How can we integrate Open Science skills and knowledge into teaching?",
+    "text": "How can we integrate Open Science skills and knowledge into teaching?\nPoints to consider:\n\nShould we?\nWhat Open Science skills and knowledge would students benefit from?\nHow would we deliver those skills and knowledge?\nWhat does success look like?\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "index.html#how-can-we-integrate-open-science-skills-and-knowledge-into-teaching-2",
+    "href": "index.html#how-can-we-integrate-open-science-skills-and-knowledge-into-teaching-2",
+    "title": "Open Science, Software, and Coding",
+    "section": "How can we integrate Open Science skills and knowledge into teaching?",
+    "text": "How can we integrate Open Science skills and knowledge into teaching?\n\nInclude Open Science Principles in the Curriculum\n\nTeach the values of transparency, reproducibility, and accessibility in research\n\nTeach Data Sharing and Management\nPromote Open Source Tools\nIncorporate Reproducible Research Practices\nIntroduce Pre-registration and Open Peer Review\nAssign Open Publication Projects\nEncourage Citizen Science Participation\nDiscuss Ethics and Equity in Open Science\nModel Open Practices as Instructors"
+  },
+  {
+    "objectID": "index.html#open-source-software-1",
+    "href": "index.html#open-source-software-1",
+    "title": "Open Science, Software, and Coding",
+    "section": "Open-Source Software",
+    "text": "Open-Source Software\n\nWhat is Open-Source Software?\nWhy use Open-Source Software?\nWhat resources are available?\nQuarto, what’s that?"
+  },
+  {
+    "objectID": "index.html#what-is-open-source-software",
+    "href": "index.html#what-is-open-source-software",
+    "title": "Open Science, Software, and Coding",
+    "section": "What is Open-Source Software?",
+    "text": "What is Open-Source Software?\nOpen-Source Software is software whose source code is made freely available for anyone to view, use, modify, and distribute (e.g. QGIS). This means that individuals or organisations can study how the software works, improve it, fix bugs, or adapt it to their needs without needing to ask for permission. This contrasts with closed-source software, where the source code is proprietary and not generally available for public use or modification (e.g. ArcGIS)."
+  },
+  {
+    "objectID": "index.html#why-use-open-source-software",
+    "href": "index.html#why-use-open-source-software",
+    "title": "Open Science, Software, and Coding",
+    "section": "Why use Open-Source Software?",
+    "text": "Why use Open-Source Software?\nTransparency and Reproducibility\nResearchers can inspect how the software works, verify and reproduce results.\nCost-Effectiveness\nAvoid expensive licensing fees. Accessible regardless of budget.\nCustomization and Flexibility\nResearchers can modify or extend the software to fit their specific needs.\nCommunity Support and Collaboration\nCommunities collaborate on software development, accelerating innovation.\nLongevity and Independence\nLess likely to disappear if a company stops supporting it.\nSkill Development\nTeaches valuable programming, data analysis, and software development skills.\nEncourages Open Science\nOpen-source software aligns with the principles of open access and open data."
+  },
+  {
+    "objectID": "index.html#what-resources-are-available-1",
+    "href": "index.html#what-resources-are-available-1",
+    "title": "Open Science, Software, and Coding",
+    "section": "What resources are available?",
+    "text": "What resources are available?\nSO MANY\nWriting & Document Preparation\n\nLibreOffice – Full office suite (word processing, spreadsheets, presentations)\nLaTeX / TeX Live / MiKTeX – High-quality typesetting for scientific papers\nOverleaf (Community Edition) – Collaborative LaTeX editor\nLyX - Document processor that uses LaTeX but offers a user-friendly interface\nZettlr – Markdown editor with citation support for academic writing\nPandoc – Universal document converter\n\nReference & Citation Management\n\nZotero – Citation manager with browser plugins and word processor integration\nJabRef – Open-source BibTeX reference manager for LaTeX users\nDocear - Academic literature management and mind-mapping tool"
+  },
+  {
+    "objectID": "index.html#what-resources-are-available-2",
+    "href": "index.html#what-resources-are-available-2",
+    "title": "Open Science, Software, and Coding",
+    "section": "What resources are available?",
+    "text": "What resources are available?\nData Analysis & Statistics\n\nR / RStudio (Open Source Version) – Statistical computing and graphics\nPython (with SciPy, NumPy, pandas, Matplotlib, etc.) – General scientific computing\nJASP – User-friendly GUI for Bayesian and classical statistics\nPSPP – SPSS alternative for statistical analysis\nKNIME - Open-source data analytics, reporting, and integration platform\n\nDrawing & Visualisation\n\nInkscape – Vector graphics editor\nGIMP - Raster graphics editor\nBlender - 3D modeling, rendering, and animation software\nPlotly - Interactive plotting libraries\nGnuplot – Command-line plotting\nGraphviz – Graph visualization\nGephi – Network analysis and visualization"
+  },
+  {
+    "objectID": "index.html#quarto-whats-that-1",
+    "href": "index.html#quarto-whats-that-1",
+    "title": "Open Science, Software, and Coding",
+    "section": "Quarto, what’s that?",
+    "text": "Quarto, what’s that?\nAn open-source scientific and technical publishing system\n\nAuthor using plain text markdown\nCreate dynamic content with Python, R, Julia, and Observable\nPublish reproducible, production quality articles, presentations, dashboards, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more\nWrite using Pandoc markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more"
+  },
+  {
+    "objectID": "index.html#what-programming-languages-should-we-teach-our-students",
+    "href": "index.html#what-programming-languages-should-we-teach-our-students",
+    "title": "Open Science, Software, and Coding",
+    "section": "What programming language(s) should we teach our students?",
+    "text": "What programming language(s) should we teach our students?\nPoints to consider:\n\nShould we even teach programming?\nWhat do we already teach? And why?\nWhat is the gateway programming language?\nWhat resources are available to support teaching and learning?\nWhat will make our students competitive now, and in the future?\nIs there benefit in teaching multiple languages or developing strong skills in one?\nWhat can we teach with our current skill set?"
+  },
+  {
+    "objectID": "index.html#why-should-we-teach-r-1",
+    "href": "index.html#why-should-we-teach-r-1",
+    "title": "Open Science, Software, and Coding",
+    "section": "Why should we teach R?",
+    "text": "Why should we teach R?\nR is Open-Source and Free\n\nUnlike costly proprietary software (e.g., SPSS, SAS, MATLAB), R is free and open-source\nThis makes it accessible to all students, even after graduation—an important equity consideration\n\nEncourages Reproducible Science\n\nR (especially with R Markdown and Quarto) fosters reproducible data analysis, a growing priority in scientific and social research"
+  },
+  {
+    "objectID": "index.html#why-should-we-teach-r-2",
+    "href": "index.html#why-should-we-teach-r-2",
+    "title": "Open Science, Software, and Coding",
+    "section": "Why should we teach R?",
+    "text": "Why should we teach R?\nGentler learning curve\n\nlibrary(dplyr)\nlibrary(readr)\n# Example dataset: 'students.csv'\n# (Assume it has columns: Name, Age, Gender, Score, Passed)\nstudents &lt;- read_csv(\"students.csv\")\n\nclean_students &lt;- students %&gt;%\n  drop_na() %&gt;%\n  filter(Age &gt;= 18) %&gt;%\n  select(Name, Age, Gender, Score) %&gt;%\n  mutate(Grade = case_when(\n    Score &gt;= 90 ~ \"A\",\n    Score &gt;= 80 ~ \"B\",\n    Score &gt;= 70 ~ \"C\",\n    TRUE        ~ \"D\"\n  )) %&gt;%\n  arrange(desc(Score))"
+  },
+  {
+    "objectID": "index.html#why-should-we-teach-r-3",
+    "href": "index.html#why-should-we-teach-r-3",
+    "title": "Open Science, Software, and Coding",
+    "section": "Why should we teach R?",
+    "text": "Why should we teach R?\nGentler learning curve\n\n# Load necessary packages\nlibrary(dplyr)\nlibrary(readr)\n# 1. Load dataset\n# Example dataset: 'students.csv'\n# (Assume it has columns: Name, Age, Gender, Score, Passed)\nstudents &lt;- read_csv(\"students.csv\")\n# 2. Clean the data using dplyr\nclean_students &lt;- students %&gt;%\n  # Remove rows with any missing values\n  drop_na() %&gt;%\n  # Filter students aged 18 or older\n  filter(Age &gt;= 18) %&gt;%\n  # Select only relevant columns\n  select(Name, Age, Gender, Score) %&gt;%\n  # Create a new column 'Grade' based on Score\n  mutate(Grade = case_when(\n    Score &gt;= 90 ~ \"A\",\n    Score &gt;= 80 ~ \"B\",\n    Score &gt;= 70 ~ \"C\",\n    TRUE        ~ \"D\"\n  )) %&gt;%\n  # Arrange the data by Score in descending order\n  arrange(desc(Score))"
+  },
+  {
+    "objectID": "index.html#why-should-we-teach-r-4",
+    "href": "index.html#why-should-we-teach-r-4",
+    "title": "Open Science, Software, and Coding",
+    "section": "Why should we teach R?",
+    "text": "Why should we teach R?\nTeaches Logical and Computational Thinking\n\nBuilds skills in problem-solving, logic, algorithmic thinking\n\nBridges Theory and Practice\n\nApply statistical and methodological concepts learnt in class to real data\n\nTransferable Skills\n\nSkills learnt transferable to other languages like Python or Julia, as well as to general digital literacy"
+  },
+  {
+    "objectID": "index.html#why-should-we-teach-r-5",
+    "href": "index.html#why-should-we-teach-r-5",
+    "title": "Open Science, Software, and Coding",
+    "section": "Why should we teach R?",
+    "text": "Why should we teach R?\nWidely Used in Research and Industry\n\nR is widely used in academia and increasingly in industry (data science, analytics)\nLearning R prepares students for both graduate research and job markets\n\nMassive Community and Learning Resources\n\nR has an active community offering packages, tutorials, and forums—ideal for students to continue learning independently."
+  },
+  {
+    "objectID": "index.html#general-geoscience-and-mapping",
+    "href": "index.html#general-geoscience-and-mapping",
+    "title": "Open Science, Software, and Coding",
+    "section": "General Geoscience and Mapping",
+    "text": "General Geoscience and Mapping\n\ngeoscale: geological time scale plotting\nastrochron: a package for conducting, and learning about: (1) paleoclimate time series analysis, (2) astronomical time scale construction, and (3) the statistical integration of astrochronologies with other geochronologic/chronostratigraphic data.\nGEOmap: Topographic and geologic mapping\ngeomapdata: Set of data for use in package GEOmap\nGlobe: Plot 2D and 3D Views of the Earth\nterrainr: Landscape Visualizations in R and ‘Unity’\nterrainmeshr: Triangulate and simplify 3D terrain meshes\nRSAGA: SAGA geoprocessing and terrain analysis\nrayshader: Create Maps and Visualize Data in 2D and 3D\nearthtones: Derive a color palette from a particular location on Earth"
+  },
+  {
+    "objectID": "index.html#geostatistics",
+    "href": "index.html#geostatistics",
+    "title": "Open Science, Software, and Coding",
+    "section": "Geostatistics",
+    "text": "Geostatistics\n\ngeotoolsR: Tools to improve the use of geostatistic\ngeorob: Robust geostatistical analysis of spatial data\ngear: Geostatistical analysis in R\ngstat: Spatial and spatio-temporal geostatistical modeling, prediction, and simulation\ngeostats: An introduction to statistics for geoscientists"
+  },
+  {
+    "objectID": "index.html#geochemistry",
+    "href": "index.html#geochemistry",
+    "title": "Open Science, Software, and Coding",
+    "section": "Geochemistry",
+    "text": "Geochemistry\n\nrgr: Applied geochemistry exploratory data analysis\nisoplotR: Statistical toolbox for radiometric geochronology\nGCDkit: a system for handling and recalculation of whole-rock analyses from igneous rocks\nOrgMassSpecR: Organic/biological mass spectrometry data analysis\nCHNOSZ: Thermodynamic calculations and diagrams for geochemistry\nggtern: Create ternary diagrams\nphreeqc: R Interface to Geochemical Modeling Software"
+  },
+  {
+    "objectID": "index.html#hydrology",
+    "href": "index.html#hydrology",
+    "title": "Open Science, Software, and Coding",
+    "section": "Hydrology",
+    "text": "Hydrology\n\nGWSDAT: Groundwater spatiotemporal data analysis tool\nstreamDepletr: Estimate streamflow depletion due to groundwater pumping\nGlacierSMBM: Glacier surface mass balance model\n\nOil and Gas\n\nRmbal: Estimate original hydrocarbon in place and reservoir performance\nRpvt: Estimate the PVT properties of reservoir fluids\n\nStructural Geology\n\nRockFab: Rock fabric and strain analysis tools"
+  },
+  {
+    "objectID": "index.html#palaeontology",
+    "href": "index.html#palaeontology",
+    "title": "Open Science, Software, and Coding",
+    "section": "Palaeontology",
+    "text": "Palaeontology\n\npalaeoverse: Provides functionality to support data preparation and exploration for palaeobiological analyses\ntidypaleo: Provides a set of functions with a common framework for age-depth model management, stratigraphic visualization, and common statistical transformations\npaleobioDB: Download and process data from the paleobiology database\nfossil: Palaeoecological and palaeogeographical analysis tools\nFossilSim: Simulating taxonomy and fossil data on phylogenetic trees under mechanistic models of speciation, preservation and sampling\nstrap: Stratigraphic tree analysis for paleontology\nfolio: Datasets for teaching archaeology and paleontology\nchronosphere: A package to facilitate spatially explicit analyses of (paleo)environmental/ecological research"
+  },
+  {
+    "objectID": "index.html#provenance-analysis",
+    "href": "index.html#provenance-analysis",
+    "title": "Open Science, Software, and Coding",
+    "section": "Provenance Analysis",
+    "text": "Provenance Analysis\n\nfingerPro: Sediment source fingerprinting\nprovenance: Statistical toolbox for sedimentary provenance analysis - datasets included\nisoplotR: Statistical toolbox for radiometric geochronology\n\nSeismicity\n\nETAS: Modeling earthquake data using ‘ETAS’ model datasets included\nbayesainETAS: Bayesian estimation of the ETAS model for earthquake occurrences\nGRTo: Tools for the analysis of Gutenberg-Richter distributions of earthquake magnitudes\nTauP.R: Earthquake traveltime calculations for 1D earth models - datasets included"
+  },
+  {
+    "objectID": "index.html#stratigraphy",
+    "href": "index.html#stratigraphy",
+    "title": "Open Science, Software, and Coding",
+    "section": "Stratigraphy",
+    "text": "Stratigraphy\n\nstratigrapheR - Integrated stratigraphy tools for plotting stratigraphic data\nSDAR - A tool for plotting and facilitating the analysis of stratigraphic and sedimentological data\ncoreCT - Programmatic analysis of sediment cores using computed tomography imaging\nG2sd - Grain-size statistics and description of sediment\nEMMAgeo - End-member modeling of grain-size data\nDecomposeR - Empirical model decomposition for cyclostratigraphy"
+  },
+  {
+    "objectID": "index.html#palaeo-climate",
+    "href": "index.html#palaeo-climate",
+    "title": "Open Science, Software, and Coding",
+    "section": "(Palaeo-)Climate",
+    "text": "(Palaeo-)Climate\n\nclimate: Automatize downloading of meteorological and hydrological data from publicly available repositories\nclimatol: an R package holding functions for quality control, homogenization and missing data in-filling of climatological series\nrpaleoclim: high resolution paleoclimate surfaces covering the whole globe\npastclim: an R package to easily access and use paleoclimatic reconstructions\nclimetrics: an R package to quantify multiple dimensions of climate change\ngeodata: Functions for downloading of geographic data for use in spatial analysis and mapping\nstagg: A data pre-processing R package for climate impacts analysis"
+  },
+  {
+    "objectID": "index.html#remote-sensing-and-spatial-analysis",
+    "href": "index.html#remote-sensing-and-spatial-analysis",
+    "title": "Open Science, Software, and Coding",
+    "section": "Remote Sensing and Spatial Analysis",
+    "text": "Remote Sensing and Spatial Analysis\n\nRStoolbox: Toolbox for remote sensing image processing and analysis\nsf: Support for simple feature access, a standardized way to encode and analyze spatial vector data\nterra: Methods for spatial data analysis with vector (points, lines, polygons) and raster (grid) data\nstars: Reading, manipulating, writing and plotting spatiotemporal arrays"
+  },
+  {
+    "objectID": "index.html#cran-task-views",
+    "href": "index.html#cran-task-views",
+    "title": "Open Science, Software, and Coding",
+    "section": "CRAN Task Views",
+    "text": "CRAN Task Views\n\n\n\nActuarialScience\nActuarial Science\n\n\nAgriculture\nAgricultural Science\n\n\nBayesian\nBayesian Inference\n\n\nCausalInference\nCausal Inference\n\n\nChemPhys\nChemometrics and Computational Physics\n\n\nCluster\nCluster Analysis & Finite Mixture Models\n\n\nCompositionalData\nCompositional Data Analysis\n\n\nDatabases\nDatabases with R\n\n\nDifferentialEquations\nDifferential Equations\n\n\nDistributions\nProbability Distributions\n\n\nDynamicVisualizations\nDynamic Visualizations and Interactive Graphics"
+  },
+  {
+    "objectID": "index.html#cran-task-views-1",
+    "href": "index.html#cran-task-views-1",
+    "title": "Open Science, Software, and Coding",
+    "section": "CRAN Task Views",
+    "text": "CRAN Task Views\n\n\n\nEnvironmetrics\nAnalysis of Ecological and Environmental Data\n\n\nExperimentalDesign\nDesign of Experiments (DoE) & Analysis of Experimental Data\n\n\nExtremeValue\nExtreme Value Analysis\n\n\nFunctionalData\nFunctional Data Analysis\n\n\nGraphicalModels\nGraphical Models\n\n\nHighPerformanceComputing\nHigh-Performance and Parallel Computing with R\n\n\nHydrology\nHydrological Data and Modeling\n\n\nMachineLearning\nMachine Learning & Statistical Learning\n\n\nMetaAnalysis\nMeta-Analysis\n\n\nMissingData\nMissing Data"
+  },
+  {
+    "objectID": "index.html#cran-task-views-2",
+    "href": "index.html#cran-task-views-2",
+    "title": "Open Science, Software, and Coding",
+    "section": "CRAN Task Views",
+    "text": "CRAN Task Views\n\n\n\nMixedModels\nMixed, Multilevel, and Hierarchical Models in R\n\n\nModelDeployment\nModel Deployment with R\n\n\nNaturalLanguageProcessing\nNatural Language Processing\n\n\nNetworkAnalysis\nNetwork Analysis\n\n\nNumericalMathematics\nNumerical Mathematics\n\n\nOfficialStatistics\nOfficial Statistics & Survey Statistics\n\n\nOmics\nGenomics, Proteomics, Metabolomics, Transcriptomics, and Other Omics\n\n\nOptimization\nOptimization and Mathematical Programming"
+  },
+  {
+    "objectID": "index.html#cran-task-views-3",
+    "href": "index.html#cran-task-views-3",
+    "title": "Open Science, Software, and Coding",
+    "section": "CRAN Task Views",
+    "text": "CRAN Task Views\n\n\n\nPaleontology\nPaleontology\n\n\nPhylogenetics\nPhylogenetics\n\n\nReproducibleResearch\nReproducible Research\n\n\nRobust\nRobust Statistical Methods\n\n\nSpatial\nAnalysis of Spatial Data\n\n\nSpatioTemporal\nHandling and Analyzing Spatio-Temporal Data\n\n\nSurvival\nSurvival Analysis\n\n\nTeachingStatistics\nTeaching Statistics\n\n\nTimeSeries\nTime Series Analysis\n\n\nTracking\nProcessing and Analysis of Tracking Data\n\n\nWebTechnologies\nWeb Technologies and Services"
+  },
+  {
+    "objectID": "index.html#books",
+    "href": "index.html#books",
+    "title": "Open Science, Software, and Coding",
+    "section": "Books",
+    "text": "Books\n\nIntro to R\nR for Data Science\nAdvanced R\nggplot2: Elegant Graphics for Data Analysis\nR Packages\nGeocomputation with R\nRemote Sensing Image Analysis with R"
+  },
+  {
+    "objectID": "index.html#action",
+    "href": "index.html#action",
+    "title": "Open Science, Software, and Coding",
+    "section": "Action",
+    "text": "Action\nMenti"
+  },
+  {
+    "objectID": "index.html#is-a-dedicated-module-for-teaching-computational-skills-needed",
+    "href": "index.html#is-a-dedicated-module-for-teaching-computational-skills-needed",
+    "title": "Open Science, Software, and Coding",
+    "section": "Is a dedicated module for teaching computational skills needed?",
+    "text": "Is a dedicated module for teaching computational skills needed?\nComputational Skills for Earth Scientists (Introduction and/or Advanced)\nPoints to consider:\n\nDo the students need it? How would it benefit them?\nWhat would this module look like?\nWho could lead such a module? Could we all contribute?\nCould these skills be built up through existing modules?"
+  },
+  {
+    "objectID": "index.html#action-1",
+    "href": "index.html#action-1",
+    "title": "Open Science, Software, and Coding",
+    "section": "Action",
+    "text": "Action\nMenti"
+  }
+]

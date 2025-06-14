@@ -1,0 +1,9 @@
+project:
+  type: website
+
+format:
+  revealjs:
+    theme: default
+
+execute:
+  freeze: auto  # Optional: skips re-execution if outputs are up-to-date
