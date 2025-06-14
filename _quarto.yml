@@ -1,9 +1,7 @@
 project:
   type: website
+  output-dir: docs
 
 format:
   revealjs:
     theme: default
-
-execute:
-  freeze: auto  # Optional: skips re-execution if outputs are up-to-date
