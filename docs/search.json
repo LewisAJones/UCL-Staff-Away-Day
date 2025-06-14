@@ -11,7 +11,7 @@
     "href": "index.html#schedule",
     "title": "Open Science, Software, and Coding",
     "section": "Schedule",
-    "text": "Schedule\n\n11:30–11:55: Open Science\n11:55–12:00: Break\n12:00–12:25: Open-Source Software Resources\n12:25–12:30: Break\n12:30–13:00: Building Computational Literacy"
+    "text": "Schedule\n\n11:30–11:55: Open Science\n11:55–12:00: Break\n12:00–12:25: Open-Source Software Resources\n12:25–12:30: Break\n12:30–13:00: Building Computing Literacy"
   },
   {
     "objectID": "index.html#open-science",
@@ -172,7 +172,7 @@
     "href": "index.html#what-resources-are-available-1",
     "title": "Open Science, Software, and Coding",
     "section": "What resources are available?",
-    "text": "What resources are available?\nSO MANY\nWriting & Document Preparation\n\nLibreOffice – Full office suite (word processing, spreadsheets, presentations)\nLaTeX / TeX Live / MiKTeX – High-quality typesetting for scientific papers\nOverleaf (Community Edition) – Collaborative LaTeX editor\nLyX - Document processor that uses LaTeX but offers a user-friendly interface\nZettlr – Markdown editor with citation support for academic writing\nPandoc – Universal document converter\n\nReference & Citation Management\n\nZotero – Citation manager with browser plugins and word processor integration\nJabRef – Open-source BibTeX reference manager for LaTeX users\nDocear - Academic literature management and mind-mapping tool"
+    "text": "What resources are available?\nSO MANY\nWriting & Document Preparation\n\nLibreOffice – Full office suite (word processing, spreadsheets, presentations)\nLaTeX / TeX Live / MiKTeX – High-quality typesetting for scientific papers\nOverleaf (Community Edition) – Collaborative LaTeX editor\nLyX - Document processor that uses LaTeX but offers a user-friendly interface\nZettlr – Markdown editor with citation support for academic writing\nPandoc – Universal document converter\n\nReference & Citation Management\n\nZotero – Citation manager with browser plugins and word processor integration\nJabRef – Open-source BibTeX reference manager for LaTeX users\nDocear – Academic literature management and mind-mapping tool"
   },
   {
     "objectID": "index.html#what-resources-are-available-2",
@@ -189,46 +189,74 @@
     "text": "Quarto, what’s that?\nAn open-source scientific and technical publishing system\n\nAuthor using plain text markdown\nCreate dynamic content with Python, R, Julia, and Observable\nPublish reproducible, production quality articles, presentations, dashboards, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more\nWrite using Pandoc markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more"
   },
   {
-    "objectID": "index.html#what-programming-languages-should-we-teach-our-students",
-    "href": "index.html#what-programming-languages-should-we-teach-our-students",
+    "objectID": "index.html#building-computing-literacy-1",
+    "href": "index.html#building-computing-literacy-1",
+    "title": "Open Science, Software, and Coding",
+    "section": "Building Computing Literacy",
+    "text": "Building Computing Literacy\n\nWhat is Computing Literacy?\nWhy is it important?\nIs a dedicated module for teaching computational skills needed?\nWhat programming language(s) should we teach our students?"
+  },
+  {
+    "objectID": "index.html#what-is-computing-literacy",
+    "href": "index.html#what-is-computing-literacy",
+    "title": "Open Science, Software, and Coding",
+    "section": "What is Computing Literacy?",
+    "text": "What is Computing Literacy?\nComputing literacy refers to the ability to understand, use, and engage with computer systems, digital technologies, and computational thinking to solve problems, communicate, and create content.\n\nBasic Computer Skills: Knowing how to operate devices, use software applications (like word processors, browsers, spreadsheets), and manage files\nDigital Literacy: Understanding how to navigate the internet, evaluate online information critically, and use digital tools responsibly and securely\nComputational Thinking: Approaching problems in ways that can be solved by computers—such as breaking tasks into steps (algorithmic thinking), recognizing patterns, and creating simple programs or scripts\nSoftware Literacy: Being familiar with how software works, the logic behind applications, and sometimes even basic coding or scripting knowledge\nData Literacy: Understanding how data is collected, processed, visualized, and used to inform decisions; awareness of Digital Ethics; knowing about privacy, security, digital rights, and responsible technology use"
+  },
+  {
+    "objectID": "index.html#why-is-it-important-for-the-students",
+    "href": "index.html#why-is-it-important-for-the-students",
+    "title": "Open Science, Software, and Coding",
+    "section": "Why is it important for the students?",
+    "text": "Why is it important for the students?\n\nEssential for Academic Success: Many disciplines now rely on digital tools – data analysis, simulation, modelling… Students need computing skills to write reports, analyse data, create presentations, and collaborate effectively.\nPrepares Students for Industry: Almost every profession requires some level of digital competency. Employers expect graduates to be comfortable with software, data, and digital technology.\nEncourages Problem-Solving and Critical Thinking: Fosters computational thinking—breaking down complex problems, designing solutions, and automating tasks.\nPromotes Digital Citizenship and Responsibility: Understanding data privacy, security, and ethical tech use helps students navigate the digital world.\nSupports Innovation and Creativity: Computing skills empower students to create—not just consume—technology.\nAdaptability to Technological Change: Technology evolves rapidly; students with computing literacy are better equipped to learn new tools."
+  },
+  {
+    "objectID": "index.html#is-a-dedicated-module-for-teaching-computational-skills-needed-1",
+    "href": "index.html#is-a-dedicated-module-for-teaching-computational-skills-needed-1",
+    "title": "Open Science, Software, and Coding",
+    "section": "Is a dedicated module for teaching computational skills needed?",
+    "text": "Is a dedicated module for teaching computational skills needed?\nComputational Skills for Earth Scientists (Introduction and/or Advanced)\nPoints to consider:\n\nDo the students need it? How would it benefit them?\nWhat would this module look like?\nWho could lead such a module? Could we all contribute?\nCould these skills be built up through existing modules?\nShould we actively teach the students programming?\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "index.html#what-programming-languages-should-we-teach-our-students-1",
+    "href": "index.html#what-programming-languages-should-we-teach-our-students-1",
     "title": "Open Science, Software, and Coding",
     "section": "What programming language(s) should we teach our students?",
-    "text": "What programming language(s) should we teach our students?\nPoints to consider:\n\nShould we even teach programming?\nWhat do we already teach? And why?\nWhat is the gateway programming language?\nWhat resources are available to support teaching and learning?\nWhat will make our students competitive now, and in the future?\nIs there benefit in teaching multiple languages or developing strong skills in one?\nWhat can we teach with our current skill set?"
+    "text": "What programming language(s) should we teach our students?\nPoints to consider:\n\nShould we even teach programming?\nWhat do we already teach? And why?\nWhat is the gateway programming language?\nWhat resources are available to support teaching and learning?\nWhat will make our students competitive now, and in the future?\nIs there benefit in teaching multiple languages or developing strong skills in one?\nWhat can we teach with our current skill set?\n\n\n\n\n−+\n05:00"
   },
   {
-    "objectID": "index.html#why-should-we-teach-r-1",
-    "href": "index.html#why-should-we-teach-r-1",
+    "objectID": "index.html#how-about-r-1",
+    "href": "index.html#how-about-r-1",
     "title": "Open Science, Software, and Coding",
-    "section": "Why should we teach R?",
-    "text": "Why should we teach R?\nR is Open-Source and Free\n\nUnlike costly proprietary software (e.g., SPSS, SAS, MATLAB), R is free and open-source\nThis makes it accessible to all students, even after graduation—an important equity consideration\n\nEncourages Reproducible Science\n\nR (especially with R Markdown and Quarto) fosters reproducible data analysis, a growing priority in scientific and social research"
+    "section": "How about R?",
+    "text": "How about R?\nR is Open-Source and Free\n\nUnlike costly proprietary software (e.g. SPSS, SAS, MATLAB), R is free and open-source\nThis makes it accessible to all students, even after graduation—an important equity consideration\n\nEncourages Reproducible Science\n\nR (especially with R Markdown and Quarto) fosters reproducible data analysis, a growing priority in scientific research"
   },
   {
-    "objectID": "index.html#why-should-we-teach-r-2",
-    "href": "index.html#why-should-we-teach-r-2",
+    "objectID": "index.html#how-about-r-2",
+    "href": "index.html#how-about-r-2",
     "title": "Open Science, Software, and Coding",
-    "section": "Why should we teach R?",
-    "text": "Why should we teach R?\nGentler learning curve\n\nlibrary(dplyr)\nlibrary(readr)\n# Example dataset: 'students.csv'\n# (Assume it has columns: Name, Age, Gender, Score, Passed)\nstudents &lt;- read_csv(\"students.csv\")\n\nclean_students &lt;- students %&gt;%\n  drop_na() %&gt;%\n  filter(Age &gt;= 18) %&gt;%\n  select(Name, Age, Gender, Score) %&gt;%\n  mutate(Grade = case_when(\n    Score &gt;= 90 ~ \"A\",\n    Score &gt;= 80 ~ \"B\",\n    Score &gt;= 70 ~ \"C\",\n    TRUE        ~ \"D\"\n  )) %&gt;%\n  arrange(desc(Score))"
+    "section": "How about R?",
+    "text": "How about R?\nGentler learning curve\n\nlibrary(dplyr)\nlibrary(readr)\n# Example dataset: 'students.csv'\n# (Assume it has columns: Name, Age, Gender, Score, Passed)\nstudents &lt;- read_csv(\"students.csv\")\n\nclean_students &lt;- students %&gt;%\n  drop_na() %&gt;%\n  filter(Age &gt;= 18) %&gt;%\n  select(Name, Age, Gender, Score) %&gt;%\n  mutate(Grade = case_when(\n    Score &gt;= 90 ~ \"A\",\n    Score &gt;= 80 ~ \"B\",\n    Score &gt;= 70 ~ \"C\",\n    TRUE        ~ \"D\"\n  )) %&gt;%\n  arrange(desc(Score))"
   },
   {
-    "objectID": "index.html#why-should-we-teach-r-3",
-    "href": "index.html#why-should-we-teach-r-3",
+    "objectID": "index.html#how-about-r-3",
+    "href": "index.html#how-about-r-3",
     "title": "Open Science, Software, and Coding",
-    "section": "Why should we teach R?",
-    "text": "Why should we teach R?\nGentler learning curve\n\n# Load necessary packages\nlibrary(dplyr)\nlibrary(readr)\n# 1. Load dataset\n# Example dataset: 'students.csv'\n# (Assume it has columns: Name, Age, Gender, Score, Passed)\nstudents &lt;- read_csv(\"students.csv\")\n# 2. Clean the data using dplyr\nclean_students &lt;- students %&gt;%\n  # Remove rows with any missing values\n  drop_na() %&gt;%\n  # Filter students aged 18 or older\n  filter(Age &gt;= 18) %&gt;%\n  # Select only relevant columns\n  select(Name, Age, Gender, Score) %&gt;%\n  # Create a new column 'Grade' based on Score\n  mutate(Grade = case_when(\n    Score &gt;= 90 ~ \"A\",\n    Score &gt;= 80 ~ \"B\",\n    Score &gt;= 70 ~ \"C\",\n    TRUE        ~ \"D\"\n  )) %&gt;%\n  # Arrange the data by Score in descending order\n  arrange(desc(Score))"
+    "section": "How about R?",
+    "text": "How about R?\nGentler learning curve\n\n# Load necessary packages\nlibrary(dplyr)\nlibrary(readr)\n# 1. Load dataset\n# Example dataset: 'students.csv'\n# (Assume it has columns: Name, Age, Gender, Score, Passed)\nstudents &lt;- read_csv(\"students.csv\")\n# 2. Clean the data using dplyr\nclean_students &lt;- students %&gt;%\n  # Remove rows with any missing values\n  drop_na() %&gt;%\n  # Filter students aged 18 or older\n  filter(Age &gt;= 18) %&gt;%\n  # Select only relevant columns\n  select(Name, Age, Gender, Score) %&gt;%\n  # Create a new column 'Grade' based on Score\n  mutate(Grade = case_when(\n    Score &gt;= 90 ~ \"A\",\n    Score &gt;= 80 ~ \"B\",\n    Score &gt;= 70 ~ \"C\",\n    TRUE        ~ \"D\"\n  )) %&gt;%\n  # Arrange the data by Score in descending order\n  arrange(desc(Score))"
   },
   {
-    "objectID": "index.html#why-should-we-teach-r-4",
-    "href": "index.html#why-should-we-teach-r-4",
+    "objectID": "index.html#how-about-r-4",
+    "href": "index.html#how-about-r-4",
     "title": "Open Science, Software, and Coding",
-    "section": "Why should we teach R?",
-    "text": "Why should we teach R?\nTeaches Logical and Computational Thinking\n\nBuilds skills in problem-solving, logic, algorithmic thinking\n\nBridges Theory and Practice\n\nApply statistical and methodological concepts learnt in class to real data\n\nTransferable Skills\n\nSkills learnt transferable to other languages like Python or Julia, as well as to general digital literacy"
+    "section": "How about R?",
+    "text": "How about R?\nTeaches Logical and Computational Thinking\n\nBuilds skills in problem-solving, logic, algorithmic thinking\n\nBridges Theory and Practice\n\nApply statistical and methodological concepts learnt in class to real data\n\nTransferable Skills\n\nSkills learnt transferable to other languages like Python or Julia, as well as to general digital literacy"
   },
   {
-    "objectID": "index.html#why-should-we-teach-r-5",
-    "href": "index.html#why-should-we-teach-r-5",
+    "objectID": "index.html#how-about-r-5",
+    "href": "index.html#how-about-r-5",
     "title": "Open Science, Software, and Coding",
-    "section": "Why should we teach R?",
-    "text": "Why should we teach R?\nWidely Used in Research and Industry\n\nR is widely used in academia and increasingly in industry (data science, analytics)\nLearning R prepares students for both graduate research and job markets\n\nMassive Community and Learning Resources\n\nR has an active community offering packages, tutorials, and forums—ideal for students to continue learning independently."
+    "section": "How about R?",
+    "text": "How about R?\nWidely Used in Research and Industry\n\nR is widely used in academia and increasingly in industry (data science, analytics)\nLearning R prepares students for both graduate research and job markets\n\nMassive Community and Learning Resources\n\nR has an active community offering packages, tutorials, and forums—ideal for students to continue learning independently"
   },
   {
     "objectID": "index.html#general-geoscience-and-mapping",
@@ -327,26 +355,5 @@
     "title": "Open Science, Software, and Coding",
     "section": "Books",
     "text": "Books\n\nIntro to R\nR for Data Science\nAdvanced R\nggplot2: Elegant Graphics for Data Analysis\nR Packages\nGeocomputation with R\nRemote Sensing Image Analysis with R"
-  },
-  {
-    "objectID": "index.html#action",
-    "href": "index.html#action",
-    "title": "Open Science, Software, and Coding",
-    "section": "Action",
-    "text": "Action\nMenti"
-  },
-  {
-    "objectID": "index.html#is-a-dedicated-module-for-teaching-computational-skills-needed",
-    "href": "index.html#is-a-dedicated-module-for-teaching-computational-skills-needed",
-    "title": "Open Science, Software, and Coding",
-    "section": "Is a dedicated module for teaching computational skills needed?",
-    "text": "Is a dedicated module for teaching computational skills needed?\nComputational Skills for Earth Scientists (Introduction and/or Advanced)\nPoints to consider:\n\nDo the students need it? How would it benefit them?\nWhat would this module look like?\nWho could lead such a module? Could we all contribute?\nCould these skills be built up through existing modules?"
-  },
-  {
-    "objectID": "index.html#action-1",
-    "href": "index.html#action-1",
-    "title": "Open Science, Software, and Coding",
-    "section": "Action",
-    "text": "Action\nMenti"
   }
 ]

@@ -8,7 +8,7 @@ format:
     chalkboard: 
       buttons: false
     preview-links: auto
-    footer: "UCL Staff Away Day 2025"
+    footer: "https://lewisajones.github.io/UCL-Staff-Away-Day"
 ---
 
 ## Introduction {.smaller}
@@ -26,7 +26,7 @@ format:
 - 11:55--12:00: Break
 - 12:00--12:25: Open-Source Software Resources
 - 12:25--12:30: Break
-- 12:30--13:00: Building Computational Literacy
+- 12:30--13:00: Building Computing Literacy
 
 ## Open Science
 
@@ -219,7 +219,7 @@ countdown(minutes = 5, seconds = 0, font_size = "3em")
 
 # Open-Source Software
 
-## Open-Source Software {.smaller}
+## Open-Source Software
 
 1. What is Open-Source Software?
 2. Why use Open-Source Software?
@@ -272,7 +272,7 @@ Open-source software aligns with the principles of open access and open data.
 
 - Zotero – Citation manager with browser plugins and word processor integration
 - JabRef – Open-source BibTeX reference manager for LaTeX users
-- Docear - Academic literature management and mind-mapping tool
+- Docear – Academic literature management and mind-mapping tool
 
 ## What resources are available? {.smaller}
 
@@ -311,7 +311,53 @@ Open-source software aligns with the principles of open access and open data.
 
 [https://quarto.org](https://quarto.org)
 
-# Building Computational Literacy
+# Building Computing Literacy
+
+## Building Computing Literacy
+
+1. What is Computing Literacy?
+2. Why is it important?
+3. Is a dedicated module for teaching computational skills needed?
+4. What programming language(s) should we teach our students?
+
+## What is Computing Literacy? {.smaller}
+
+**Computing literacy** refers to the ability to understand, use, and engage with computer systems, digital technologies, and computational thinking to solve problems, communicate, and create content.
+
+- **Basic Computer Skills:** Knowing how to operate devices, use software applications (like word processors, browsers, spreadsheets), and manage files
+- **Digital Literacy:** Understanding how to navigate the internet, evaluate online information critically, and use digital tools responsibly and securely
+- **Computational Thinking:** Approaching problems in ways that can be solved by computers—such as breaking tasks into steps (algorithmic thinking), recognizing patterns, and creating simple programs or scripts
+- **Software Literacy:** Being familiar with how software works, the logic behind applications, and sometimes even basic coding or scripting knowledge
+- **Data Literacy:** Understanding how data is collected, processed, visualized, and used to inform decisions; awareness of Digital Ethics; knowing about privacy, security, digital rights, and responsible technology use
+
+## Why is it important for the students? {.smaller}
+
+- **Essential for Academic Success:** Many disciplines now rely on digital tools -- data analysis, simulation, modelling... Students need computing skills to write reports, analyse data, create presentations, and collaborate effectively.
+- **Prepares Students for Industry:** Almost every profession requires some level of digital competency. Employers expect graduates to be comfortable with software, data, and digital technology.
+- **Encourages Problem-Solving and Critical Thinking:** Fosters computational thinking—breaking down complex problems, designing solutions, and automating tasks.
+- **Promotes Digital Citizenship and Responsibility:** Understanding data privacy, security, and ethical tech use helps students navigate the digital world.
+- **Supports Innovation and Creativity:** Computing skills empower students to create—not just consume—technology.
+- **Adaptability to Technological Change:** Technology evolves rapidly; students with computing literacy are better equipped to learn new tools.
+
+# Is a dedicated module for teaching computational skills needed?
+
+## Is a dedicated module for teaching computational skills needed? {.smaller}
+
+#### *Computational Skills for Earth Scientists (Introduction and/or Advanced)*
+
+Points to consider:
+
+- Do the students need it? How would it benefit them?
+- What would this module look like?
+- Who could lead such a module? Could we all contribute?
+- Could these skills be built up through existing modules?
+- Should we actively teach the students programming?
+
+```{R}
+countdown(minutes = 5, seconds = 0, font_size = "3em")
+```
+
+# What programming language(s) should we teach our students? {.smaller}
 
 ## What programming language(s) should we teach our students? {.smaller}
 
@@ -325,20 +371,24 @@ Points to consider:
 - Is there benefit in teaching multiple languages or developing strong skills in one?
 - What can we teach with our current skill set?
 
-# Why should we teach R?
+```{R}
+countdown(minutes = 5, seconds = 0, font_size = "3em")
+```
 
-## Why should we teach R?
+# How about R?
+
+## How about R? {.smaller}
 
 #### R is Open-Source and Free
 
-- Unlike costly proprietary software (e.g., SPSS, SAS, MATLAB), R is free and open-source
+- Unlike costly proprietary software (e.g. SPSS, SAS, MATLAB), R is free and open-source
 - This makes it accessible to all students, even after graduation—an important equity consideration
 
 #### Encourages Reproducible Science
 
-- R (especially with R Markdown and Quarto) fosters reproducible data analysis, a growing priority in scientific and social research
+- R (especially with R Markdown and Quarto) fosters reproducible data analysis, a growing priority in scientific research
 
-## Why should we teach R?
+## How about R?
 
 #### Gentler learning curve
 
@@ -362,7 +412,7 @@ clean_students <- students %>%
   arrange(desc(Score))
 ```
 
-## Why should we teach R?
+## How about R?
 
 #### Gentler learning curve
 
@@ -393,7 +443,7 @@ clean_students <- students %>%
   arrange(desc(Score))
 ```
 
-## Why should we teach R?
+## How about R? {.smaller}
 
 #### Teaches Logical and Computational Thinking
 
@@ -407,7 +457,7 @@ clean_students <- students %>%
 
 - Skills learnt transferable to other languages like Python or Julia, as well as to general digital literacy
 
-## Why should we teach R?
+## How about R? {.smaller}
 
 #### Widely Used in Research and Industry
 
@@ -416,7 +466,7 @@ clean_students <- students %>%
 
 #### Massive Community and Learning Resources
 
-- R has an active community offering packages, tutorials, and forums—ideal for students to continue learning independently.
+- R has an active community offering packages, tutorials, and forums—ideal for students to continue learning independently
 
 # Packages {.smaller}
 
@@ -589,25 +639,6 @@ Over 22,000 packages available on The Comprehensive R Archive Network
 - [R Packages](https://r-pkgs.org)
 - [Geocomputation with R](https://r.geocompx.org)
 - [Remote Sensing Image Analysis with R](https://rspatial.org/rs/rs.pdf)
-
-## Action
-
-Menti
-
-## Is a dedicated module for teaching computational skills needed? {.smaller}
-
-#### *Computational Skills for Earth Scientists (Introduction and/or Advanced)*
-
-Points to consider:
-
-- Do the students need it? How would it benefit them?
-- What would this module look like?
-- Who could lead such a module? Could we all contribute?
-- Could these skills be built up through existing modules?
-
-## Action
-
-Menti
 
 
 
