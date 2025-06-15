@@ -8,6 +8,7 @@ format:
     chalkboard: 
       buttons: false
     preview-links: auto
+    auto-stretch: true
     footer: "https://lewisajones.github.io/UCL-Staff-Away-Day"
 ---
 
@@ -18,28 +19,35 @@ format:
 -   Palaeobiologist 🪸
 -   Open-Science advocate
 
-![https://palaeoverse.org](https://palaeoverse.org/images/logo.png){width="100%"}
+::::: columns
+::: {.column width="50%"}
+![[https://palaeoverse.org](https://palaeoverse.org)](images/logo.png){width="100%"}
+:::
+
+::: {.column width="35%"}
+![[https://www.openpalaeo.org](https://www.openpalaeo.org)](images/opal.jpg){width="100%"}
+:::
+:::::
 
 ## Schedule
 
-- 11:30--12:00: Open Science
-- 12:00--12:30: Open-Source Software Resources
-- 12:30--13:00: Building Computing Literacy
+-   11:30--12:00: Open Science
+-   12:00--12:30: Open-Source Software
+-   12:30--13:00: Building Computing Literacy
 
 ## Open Science
 
-1. What is Open Science?
-2. Core values and guiding principles
-3. Why does Open Science matter?
-4. How can we promote Open Science as a department?
-5. How can we integrate Open Science skills and knowledge into teaching?
+1.  What is Open Science?
+2.  Core values and guiding principles
+3.  Why does Open Science matter?
+4.  How can we promote Open Science as a department?
+5.  How can we integrate Open Science skills and knowledge into teaching?
 
 # What is Open Science?
 
 ## What is Open Science? {.smaller}
 
-:::: {.columns}
-
+::::: columns
 ::: {.column width="70%"}
 ***Open Science** is defined as an inclusive construct that combines various movements and practices aiming to make multilingual scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community. It comprises all scientific disciplines and aspects of scholarly practices, including basic and applied sciences, natural and social sciences and the humanities, and it builds on the following key pillars: open scientific knowledge, open science infrastructures, science communication, open engagement of societal actors and open dialogue with other knowledge systems.* -- UNESCO, 2021
 :::
@@ -47,8 +55,7 @@ format:
 ::: {.column width="30%"}
 ![[UNESCO Recommendation on Open Science, 2021](https://www.unesco.org/en/open-science/about)](images/unesco2021.jpeg)
 :::
-
-::::
+:::::
 
 ## What is Open Science? {.smaller}
 
@@ -64,33 +71,57 @@ format:
 
 ## Values - Quality and Integrity {.smaller}
 
+::::: columns
+::: {.column width="60%"}
 ***Quality and integrity:** Open Science should respect academic freedom and human rights and support high-quality research by bringing together multiple sources of knowledge and making research methods and outputs widely available for rigorous review and scrutiny, and transparent evaluation processes.* -- UNESCO, 2021
+:::
 
-<br>
+::: {.column width="40%"}
+![](https://embed-ssl.wistia.com/deliveries/92299fc658651c51e554567858ce7190.webp?image_crop_resized=1280x720){width="100%"}
+:::
+:::::
 
 **TL;DR:** Open Science upholds academic freedom and human rights while fostering high-quality research through openness, inclusivity, transparency, and rigorous peer review.
 
 ## Values - Collective Benefit {.smaller}
 
+::::: columns
+::: {.column width="60%"}
 ***Collective benefit:** as a global public good, open science should belong to humanity in common and benefit humanity as a whole. To this end, scientific knowledge should be openly available and its benefits universally shared. The practice of science should be inclusive, sustainable and equitable, also in opportunities for scientific education and capacity development.* -- UNESCO, 2021
+:::
 
-<br>
+::: {.column width="40%"}
+![](https://i0.wp.com/communityresearchcollaborative.org/wp-content/uploads/2022/06/Collective-Benefits.png?resize=768%2C768&ssl=1){width="100%"}
+:::
+:::::
 
 **TL;DR:** Open Science is shared, inclusive, and equitable global good benefiting all of humanity.
 
 ## Values - Equity and Fairness {.smaller}
 
+::::: columns
+::: {.column width="60%"}
 ***Equity and fairness:** open science should play a significant role in ensuring equity among researchers from developed and developing countries, enabling fair and reciprocal sharing of scientific inputs and outputs and equal access to scientific knowledge to both producers and consumers of knowledge regardless of location, nationality, race, age, gender, income, socio-economic circumstances, career stage, discipline, language, religion, disability, ethnicity or migratory status, or any other grounds.* -- UNESCO, 2021
+:::
 
-<br>
+::: {.column width="40%"}
+![](https://reciteme.com/au/wp-content/uploads/sites/3/2023/03/1-1024x777.jpeg){width="100%"}
+:::
+:::::
 
 **TL;DR:** Open Science ensures equitable access and participation for all researchers, regardless of background or location.
 
 ## Values - Diversity and Inclusiveness {.smaller}
 
+::::: columns
+::: {.column width="60%"}
 ***Diversity and inclusiveness:** open science should embrace a diversity of knowledge, practices, workflows, languages, research outputs and research topics that support the needs and epistemic pluralism of the scientific community as a whole, diverse research communities and scholars, as well as the wider public and knowledge holders beyond the traditional scientific community, including indigenous peoples and local communities, and social actors from different countries and regions, as appropriate.* -- UNESCO, 2021
+:::
 
-<br>
+::: {.column width="40%"}
+![](https://prod.smassets.net/assets/content/sm/external-blog-header-DIIGs-ERGs-scaled-1.jpg){width="100%"}
+:::
+:::::
 
 **TL;DR:** Open Science embraces and values diverse knowledge systems, practices, and voices within and beyond the scientific community.
 
@@ -146,17 +177,17 @@ format:
 
 ## Why does Open Science matter? {.smaller}
 
-- Increases accessibility to scientific knowledge for all
-- Enhances transparency and trust in research processes and results
-- Accelerates discovery and innovation through wider data and knowledge sharing
-  - **F**indability, **A**ccessibility, **I**nteroperability, and **R**eusability data principles
-- Improves research quality by enabling verification and reproducibility
-- Fosters global collaboration across disciplines, regions, and cultures
-- Promotes equity and inclusion by involving underrepresented communities and researchers
-- Maximises societal impact by making research outcomes available for public benefit
-- Encourages responsible and ethical science through openness and accountability
-- **Funders may require it** (e.g. UKRI - NERC)
-- Significance for the REF?
+-   Increases accessibility to scientific knowledge for all
+-   Enhances transparency and trust in research processes and results
+-   Accelerates discovery and innovation through wider data and knowledge sharing
+    -   **F**indability, **A**ccessibility, **I**nteroperability, and **R**eusability data principles
+-   Improves research quality by enabling verification and reproducibility
+-   Fosters global collaboration across disciplines, regions, and cultures
+-   Promotes equity and inclusion by involving underrepresented communities and researchers
+-   Maximises societal impact by making research outcomes available for public benefit
+-   Encourages responsible and ethical science through openness and accountability
+-   **Funders may require it** (e.g. UKRI - NERC)
+-   Significance for the REF?
 
 # How can we promote Open Science as a department?
 
@@ -164,9 +195,9 @@ format:
 
 Points to consider:
 
-- What are we already doing well? Do we know?
-- What could we do more of?
-- How would we support such actions?
+-   What are we already doing well? Do we know?
+-   What could we do more of?
+-   How would we support such actions?
 
 ```{R}
 library(countdown)
@@ -175,13 +206,13 @@ countdown(minutes = 5, seconds = 0, font_size = "3em")
 
 ## How can we promote Open Science as a department? {.smaller}
 
-- **Publishing:** Encourage publishing in open-access journals/repositories
-- **Share Data and Code:** Make datasets, models, software, and workflows publicly available with clear metadata
-- **Use and Contribute to Open Infrastructures:** Support community-driven resources
-- **Implement Open Science Training:** Offer workshops on open data management, reproducibility, licensing
-- **Recognise and Reward Open Practices:** Include open science contributions in hiring, promotion, grant evaluations
-- **Adopt Transparent Processes:** Pre-register studies, share methods, document research
-- **Develop Sustainable Open Science Policies:** Create departmental guidelines that support open, ethical, responsible  practices
+-   **Publishing:** Encourage publishing in open-access journals/repositories
+-   **Share Data and Code:** Make datasets, models, software, and workflows publicly available with clear metadata
+-   **Use and Contribute to Open Infrastructures:** Support community-driven resources
+-   **Implement Open Science Training:** Offer workshops on open data management, reproducibility, licensing
+-   **Recognise and Reward Open Practices:** Include open science contributions in hiring, promotion, grant evaluations
+-   **Adopt Transparent Processes:** Pre-register studies, share methods, document research
+-   **Develop Sustainable Open Science Policies:** Create departmental guidelines that support open, ethical, responsible practices
 
 # How can we integrate Open Science skills and knowledge into teaching? {.smaller}
 
@@ -189,10 +220,10 @@ countdown(minutes = 5, seconds = 0, font_size = "3em")
 
 Points to consider:
 
-- Should we?
-- What Open Science skills and knowledge would students benefit from?
-- How would we deliver those skills and knowledge?
-- What does success look like?
+-   Should we?
+-   What Open Science skills and knowledge would students benefit from?
+-   How would we deliver those skills and knowledge?
+-   What does success look like?
 
 ```{R}
 countdown(minutes = 5, seconds = 0, font_size = "3em")
@@ -200,134 +231,139 @@ countdown(minutes = 5, seconds = 0, font_size = "3em")
 
 ## How can we integrate Open Science skills and knowledge into teaching? {.smaller}
 
-- **Include Open Science Principles in the Curriculum**
-  -  Teach the values of transparency, reproducibility, and accessibility in research
-- **Teach Data Sharing and Management**
-- **Promote Open Source Tools** (coming next!)
-- **Incorporate Reproducible Research Practices**
-- **Introduce Pre-registration and Open Peer Review**
-- **Assign Open Publication Projects**
-- **Encourage Citizen Science Participation**
-- **Discuss Ethics and Equity in Open Science**
-- **Model Open Practices as Instructors**
+-   **Include Open Science Principles in the Curriculum**
+    -   Teach the values of transparency, reproducibility, and accessibility in research
+-   **Teach Data Sharing and Management**
+-   **Promote Open Source Tools** (coming next!)
+-   **Incorporate Reproducible Research Practices**
+-   **Introduce Pre-registration and Open Peer Review**
+-   **Assign Open Publication Projects**
+-   **Encourage Citizen Science Participation**
+-   **Discuss Ethics and Equity in Open Science**
+-   **Model Open Practices as Instructors**
 
 # Open-Source Software
 
 ## Open-Source Software
 
-1. What is Open-Source Software?
-2. Why use Open-Source Software?
-3. What resources are available?
-4. Quarto, what's that?
+1.  What is Open-Source Software?
+2.  Why use Open-Source Software?
+3.  What resources are available?
+4.  Quarto, what's that?
 
 ## What is Open-Source Software? {.smaller}
 
 **Open-Source Software** is software whose source code is made freely available for anyone to view, use, modify, and distribute (e.g. QGIS). This means that individuals or organisations can study how the software works, improve it, fix bugs, or adapt it to their needs without needing to ask for permission. This contrasts with closed-source software, where the source code is proprietary and not generally available for public use or modification (e.g. ArcGIS).
 
+![](images/opensource.jpg)
+
 ## Why use Open-Source Software? {.smaller}
 
 #### Transparency and Reproducibility
+
 Researchers can inspect how the software works, verify and reproduce results.
 
 #### Cost-Effectiveness
+
 Avoid expensive licensing fees. Accessible regardless of budget.
 
 #### Customization and Flexibility
+
 Researchers can modify or extend the software to fit their specific needs.
 
 #### Community Support and Collaboration
+
 Communities collaborate on software development, accelerating innovation.
 
 #### Longevity and Independence
+
 Less likely to disappear if a company stops supporting it.
 
-#### Skill Development
-Teaches valuable programming, data analysis, and software development skills.
-
 #### Encourages Open Science
+
 Open-source software aligns with the principles of open access and open data.
 
 # What resources are available?
 
 ## What resources are available? {.smaller}
 
-### SO MANY 
+### SO MANY
 
 #### Writing & Document Preparation
 
-- LibreOffice – Full office suite (word processing, spreadsheets, presentations)
-- LaTeX / TeX Live / MiKTeX – High-quality typesetting for scientific papers
-- Overleaf (Community Edition) – Collaborative LaTeX editor
-- LyX - Document processor that uses LaTeX but offers a user-friendly interface
-- Zettlr – Markdown editor with citation support for academic writing
-- Pandoc – Universal document converter
+-   LibreOffice – Full office suite (word processing, spreadsheets, presentations)
+-   LaTeX / TeX Live / MiKTeX – High-quality typesetting for scientific papers
+-   Overleaf (Community Edition) – Collaborative LaTeX editor
+-   LyX - Document processor that uses LaTeX but offers a user-friendly interface
+-   Zettlr – Markdown editor with citation support for academic writing
+-   Pandoc – Universal document converter
 
 #### Reference & Citation Management
 
-- Zotero – Citation manager with browser plugins and word processor integration
-- JabRef – Open-source BibTeX reference manager for LaTeX users
-- Docear – Academic literature management and mind-mapping tool
+-   Zotero – Citation manager with browser plugins and word processor integration
+-   JabRef – Open-source BibTeX reference manager for LaTeX users
+-   Docear – Academic literature management and mind-mapping tool
 
 ## What resources are available? {.smaller}
 
 #### Data Analysis & Statistics
 
-- R / RStudio (Open Source Version) – Statistical computing and graphics
-- Python (with SciPy, NumPy, pandas, Matplotlib, etc.) – General scientific computing
-- JASP – User-friendly GUI for Bayesian and classical statistics
-- PSPP – SPSS alternative for statistical analysis
-- KNIME - Open-source data analytics, reporting, and integration platform
+-   R / RStudio (Open Source Version) – Statistical computing and graphics
+-   Python (with SciPy, NumPy, pandas, Matplotlib, etc.) – General scientific computing
+-   JASP – User-friendly GUI for Bayesian and classical statistics
+-   PSPP – SPSS alternative for statistical analysis
+-   KNIME - Open-source data analytics, reporting, and integration platform
 
 #### Drawing & Visualisation
 
-- Inkscape – Vector graphics editor
-- GIMP - Raster graphics editor
-- Blender - 3D modeling, rendering, and animation software
-- Plotly - Interactive plotting libraries
-- Gnuplot – Command-line plotting
-- Graphviz – Graph visualization
-- Gephi – Network analysis and visualization
+-   Inkscape – Vector graphics editor
+-   GIMP - Raster graphics editor
+-   Blender - 3D modeling, rendering, and animation software
+-   Plotly - Interactive plotting libraries
+-   Gnuplot – Command-line plotting
+-   Graphviz – Graph visualization
+-   Gephi – Network analysis and visualization
 
 # Quarto, what's that?
 
-[https://quarto.org](https://quarto.org)
+<https://quarto.org>
 
 ## Quarto, what's that? {.smaller}
 
 **An open-source scientific and technical publishing system**
 
-- Author using plain text markdown
-- Create dynamic content with Python, R, Julia, and Observable
-- Publish reproducible, production quality articles, presentations, dashboards, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more
-- Write using Pandoc markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more
+-   Author using plain text markdown
+-   Create dynamic content with Python, R, Julia, and Observable
+-   Publish reproducible, production quality articles, presentations, dashboards, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more
+-   Write using Pandoc markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more
 
 # Building Computing Literacy
 
 ## Building Computing Literacy
 
-1. What is Computing Literacy?
-2. Why is it important?
-3. Is a dedicated module for teaching computational skills needed?
-4. What programming language(s) should we teach our students?
+1.  What is Computing Literacy?
+2.  Why is it important?
+3.  Is a dedicated module for teaching computational skills needed?
+4.  What programming language(s) should we teach our students?
 
 ## What is Computing Literacy? {.smaller}
 
 **Computing literacy** refers to the ability to understand, use, and engage with computer systems, digital technologies, and computational thinking to solve problems, communicate, and create content.
 
-- **Basic Computer Skills:** Knowing how to operate devices, use software applications (like word processors, browsers, spreadsheets), and manage files
-- **Digital Literacy:** Understanding how to navigate the internet, evaluate online information critically, and use digital tools responsibly and securely
-- **Computational Thinking:** Approaching problems in ways that can be solved by computers—such as breaking tasks into steps (algorithmic thinking), recognizing patterns, and creating simple programs or scripts
-- **Software Literacy:** Being familiar with how software works, the logic behind applications, and sometimes even basic coding or scripting knowledge
-- **Data Literacy:** Understanding how data is collected, processed, visualized, and used to inform decisions; awareness of Digital Ethics; knowing about privacy, security, digital rights, and responsible technology use
+-   **Basic Computer Skills:** Knowing how to operate devices, use software applications (like word processors, browsers, spreadsheets), and manage files
+-   **Digital Literacy:** Understanding how to navigate the internet, evaluate online information critically, and use digital tools responsibly and securely
+-   **Computational Thinking:** Approaching problems in ways that can be solved by computers—such as breaking tasks into steps (algorithmic thinking), recognizing patterns, and creating simple programs or scripts
+-   **Software Literacy:** Being familiar with how software works, the logic behind applications, and sometimes even basic coding or scripting knowledge
+-   **Data Literacy:** Understanding how data is collected, processed, visualized, and used to inform decisions; awareness of Digital Ethics; knowing about privacy, security, digital rights, and responsible technology use
 
 ## Why is it important for the students? {.smaller}
 
-- **Essential for Academic Success:** Many disciplines now rely on digital tools -- data analysis, simulation, modelling... Students need computing skills to write reports, analyse data, create presentations, and collaborate effectively.
-- **Prepares Students for Industry:** Almost every profession requires some level of digital competency. Employers expect graduates to be comfortable with software, data, and digital technology.
-- **Encourages Problem-Solving and Critical Thinking:** Fosters computational thinking—breaking down complex problems, designing solutions, and automating tasks.
-- **Promotes Digital Citizenship and Responsibility:** Understanding data privacy, security, and ethical tech use helps students navigate the digital world.
-- **Supports Innovation and Creativity:** Computing skills empower students to create—not just consume—technology.
-- **Adaptability to Technological Change:** Technology evolves rapidly; students with computing literacy are better equipped to learn new tools.
+-   **Essential for Academic Success:** Many disciplines now rely on digital tools -- data analysis, simulation, modelling... Students need computing skills to write reports, analyse data, create presentations, and collaborate effectively.
+-   **Prepares Students for Industry:** Almost every profession requires some level of digital competency. Employers expect graduates to be comfortable with software, data, and digital technology.
+-   **Encourages Problem-Solving and Critical Thinking:** Fosters computational thinking—breaking down complex problems, designing solutions, and automating tasks.
+-   **Promotes Digital Citizenship and Responsibility:** Understanding data privacy, security, and ethical tech use helps students navigate the digital world.
+-   **Supports Innovation and Creativity:** Computing skills empower students to create—not just consume—technology.
+-   **Adaptability to Technological Change:** Technology evolves rapidly; students with computing literacy are better equipped to learn new tools.
 
 # Is a dedicated module for teaching computational skills needed?
 
@@ -337,11 +373,11 @@ Open-source software aligns with the principles of open access and open data.
 
 Points to consider:
 
-- Do the students need it? How would it benefit them?
-- What would this module look like?
-- Who could lead such a module? Could we all contribute?
-- Could these skills be built up through existing modules?
-- Should we actively teach the students programming?
+-   Do the students need it? How would it benefit them?
+-   What would this module look like?
+-   Who could lead such a module? Could we all contribute?
+-   Could these skills be built up through existing modules?
+-   Should we actively teach the students programming?
 
 ```{R}
 countdown(minutes = 5, seconds = 0, font_size = "3em")
@@ -353,13 +389,13 @@ countdown(minutes = 5, seconds = 0, font_size = "3em")
 
 Points to consider:
 
-- Should we even teach programming?
-- What do we already teach? And why?
-- What is the gateway programming language?
-- What resources are available to support teaching and learning?
-- What will make our students competitive now, and in the future?
-- Is there benefit in teaching multiple languages or developing strong skills in one?
-- What can we teach with our current skill set?
+-   Should we even teach programming?
+-   What do we already teach? And why?
+-   What is the gateway programming language?
+-   What resources are available to support teaching and learning?
+-   What will make our students competitive now, and in the future?
+-   Is there benefit in teaching multiple languages or developing strong skills in one?
+-   What can we teach with our current skill set?
 
 ```{R}
 countdown(minutes = 5, seconds = 0, font_size = "3em")
@@ -371,12 +407,12 @@ countdown(minutes = 5, seconds = 0, font_size = "3em")
 
 #### R is Open-Source and Free
 
-- Unlike costly proprietary software (e.g. SPSS, SAS, MATLAB), R is free and open-source
-- This makes it accessible to all students, even after graduation—an important equity consideration
+-   Unlike costly proprietary software (e.g. SPSS, SAS, MATLAB), R is free and open-source
+-   This makes it accessible to all students, even after graduation—an important equity consideration
 
 #### Encourages Reproducible Science
 
-- R (especially with R Markdown and Quarto) fosters reproducible data analysis, a growing priority in scientific research
+-   R (especially with R Markdown and Quarto) fosters reproducible data analysis, a growing priority in scientific research
 
 ## How about R?
 
@@ -437,26 +473,26 @@ clean_students <- students %>%
 
 #### Teaches Logical and Computational Thinking
 
-- Builds skills in problem-solving, logic, algorithmic thinking
+-   Builds skills in problem-solving, logic, algorithmic thinking
 
 #### Bridges Theory and Practice
 
-- Apply statistical and methodological concepts learnt in class to real data
+-   Apply statistical and methodological concepts learnt in class to real data
 
 #### Transferable Skills
 
-- Skills learnt transferable to other languages like Python or Julia, as well as to general digital literacy
+-   Skills learnt transferable to other languages like Python or Julia, as well as to general digital literacy
 
 ## How about R? {.smaller}
 
 #### Widely Used in Research and Industry
 
-- R is widely used in academia and increasingly in industry (data science, analytics)
-- Learning R prepares students for both graduate research and job markets
+-   R is widely used in academia and increasingly in industry (data science, analytics)
+-   Learning R prepares students for both graduate research and job markets
 
 #### Massive Community and Learning Resources
 
-- R has an active community offering packages, tutorials, and forums—ideal for students to continue learning independently
+-   R has an active community offering packages, tutorials, and forums—ideal for students to continue learning independently
 
 # Packages {.smaller}
 
@@ -622,16 +658,21 @@ Over 22,000 packages available on The Comprehensive R Archive Network
 
 ## Books
 
-- [Intro to R](https://intro2r.com)
-- [R for Data Science](https://r4ds.had.co.nz)
-- [Advanced R](https://adv-r.hadley.nz)
-- [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org)
-- [R Packages](https://r-pkgs.org)
-- [Geocomputation with R](https://r.geocompx.org)
-- [Remote Sensing Image Analysis with R](https://rspatial.org/rs/rs.pdf)
+-   [Intro to R](https://intro2r.com)
+-   [R for Data Science](https://r4ds.had.co.nz)
+-   [Advanced R](https://adv-r.hadley.nz)
+-   [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org)
+-   [R Packages](https://r-pkgs.org)
+-   [Geocomputation with R](https://r.geocompx.org)
+-   [Remote Sensing Image Analysis with R](https://rspatial.org/rs/rs.pdf)
 
-# Moving forward
+# Where do we go from here?
 
-## Moving forward
+## Where do we go from here?
+
+- Moving forward
+  - Develop a 'Departmental Ethos on Open Science'?
+  - Standardise the tools we teach?
+- Survey
 
 ![](images/survey.jpg)

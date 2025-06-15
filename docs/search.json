@@ -4,14 +4,14 @@
     "href": "index.html#introduction",
     "title": "Open Science, Software, and Coding",
     "section": "Introduction",
-    "text": "Introduction\n\nLewis A. Jones (he/him)\nNERC Independent Research Fellow (2024–2029)\nPalaeobiologist 🪸\nOpen-Science advocate\n\n\nhttps://palaeoverse.org"
+    "text": "Introduction\n\nLewis A. Jones (he/him)\nNERC Independent Research Fellow (2024–2029)\nPalaeobiologist 🪸\nOpen-Science advocate\n\n\n\n\n\n\nhttps://palaeoverse.org\n\n\n\n\n\n\nhttps://www.openpalaeo.org"
   },
   {
     "objectID": "index.html#schedule",
     "href": "index.html#schedule",
     "title": "Open Science, Software, and Coding",
     "section": "Schedule",
-    "text": "Schedule\n\n11:30–12:00: Open Science\n12:00–12:30: Open-Source Software Resources\n12:30–13:00: Building Computing Literacy"
+    "text": "Schedule\n\n11:30–12:00: Open Science\n12:00–12:30: Open-Source Software\n12:30–13:00: Building Computing Literacy"
   },
   {
     "objectID": "index.html#open-science",
@@ -46,28 +46,28 @@
     "href": "index.html#values---quality-and-integrity",
     "title": "Open Science, Software, and Coding",
     "section": "Values - Quality and Integrity",
-    "text": "Values - Quality and Integrity\nQuality and integrity: Open Science should respect academic freedom and human rights and support high-quality research by bringing together multiple sources of knowledge and making research methods and outputs widely available for rigorous review and scrutiny, and transparent evaluation processes. – UNESCO, 2021\n\nTL;DR: Open Science upholds academic freedom and human rights while fostering high-quality research through openness, inclusivity, transparency, and rigorous peer review."
+    "text": "Values - Quality and Integrity\n\n\nQuality and integrity: Open Science should respect academic freedom and human rights and support high-quality research by bringing together multiple sources of knowledge and making research methods and outputs widely available for rigorous review and scrutiny, and transparent evaluation processes. – UNESCO, 2021\n\n\n\nTL;DR: Open Science upholds academic freedom and human rights while fostering high-quality research through openness, inclusivity, transparency, and rigorous peer review."
   },
   {
     "objectID": "index.html#values---collective-benefit",
     "href": "index.html#values---collective-benefit",
     "title": "Open Science, Software, and Coding",
     "section": "Values - Collective Benefit",
-    "text": "Values - Collective Benefit\nCollective benefit: as a global public good, open science should belong to humanity in common and benefit humanity as a whole. To this end, scientific knowledge should be openly available and its benefits universally shared. The practice of science should be inclusive, sustainable and equitable, also in opportunities for scientific education and capacity development. – UNESCO, 2021\n\nTL;DR: Open Science is shared, inclusive, and equitable global good benefiting all of humanity."
+    "text": "Values - Collective Benefit\n\n\nCollective benefit: as a global public good, open science should belong to humanity in common and benefit humanity as a whole. To this end, scientific knowledge should be openly available and its benefits universally shared. The practice of science should be inclusive, sustainable and equitable, also in opportunities for scientific education and capacity development. – UNESCO, 2021\n\n\n\nTL;DR: Open Science is shared, inclusive, and equitable global good benefiting all of humanity."
   },
   {
     "objectID": "index.html#values---equity-and-fairness",
     "href": "index.html#values---equity-and-fairness",
     "title": "Open Science, Software, and Coding",
     "section": "Values - Equity and Fairness",
-    "text": "Values - Equity and Fairness\nEquity and fairness: open science should play a significant role in ensuring equity among researchers from developed and developing countries, enabling fair and reciprocal sharing of scientific inputs and outputs and equal access to scientific knowledge to both producers and consumers of knowledge regardless of location, nationality, race, age, gender, income, socio-economic circumstances, career stage, discipline, language, religion, disability, ethnicity or migratory status, or any other grounds. – UNESCO, 2021\n\nTL;DR: Open Science ensures equitable access and participation for all researchers, regardless of background or location."
+    "text": "Values - Equity and Fairness\n\n\nEquity and fairness: open science should play a significant role in ensuring equity among researchers from developed and developing countries, enabling fair and reciprocal sharing of scientific inputs and outputs and equal access to scientific knowledge to both producers and consumers of knowledge regardless of location, nationality, race, age, gender, income, socio-economic circumstances, career stage, discipline, language, religion, disability, ethnicity or migratory status, or any other grounds. – UNESCO, 2021\n\n\n\nTL;DR: Open Science ensures equitable access and participation for all researchers, regardless of background or location."
   },
   {
     "objectID": "index.html#values---diversity-and-inclusiveness",
     "href": "index.html#values---diversity-and-inclusiveness",
     "title": "Open Science, Software, and Coding",
     "section": "Values - Diversity and Inclusiveness",
-    "text": "Values - Diversity and Inclusiveness\nDiversity and inclusiveness: open science should embrace a diversity of knowledge, practices, workflows, languages, research outputs and research topics that support the needs and epistemic pluralism of the scientific community as a whole, diverse research communities and scholars, as well as the wider public and knowledge holders beyond the traditional scientific community, including indigenous peoples and local communities, and social actors from different countries and regions, as appropriate. – UNESCO, 2021\n\nTL;DR: Open Science embraces and values diverse knowledge systems, practices, and voices within and beyond the scientific community."
+    "text": "Values - Diversity and Inclusiveness\n\n\nDiversity and inclusiveness: open science should embrace a diversity of knowledge, practices, workflows, languages, research outputs and research topics that support the needs and epistemic pluralism of the scientific community as a whole, diverse research communities and scholars, as well as the wider public and knowledge holders beyond the traditional scientific community, including indigenous peoples and local communities, and social actors from different countries and regions, as appropriate. – UNESCO, 2021\n\n\n\nTL;DR: Open Science embraces and values diverse knowledge systems, practices, and voices within and beyond the scientific community."
   },
   {
     "objectID": "index.html#principles---transparency-scrutiny-critique-and-reproducibility",
@@ -165,7 +165,7 @@
     "href": "index.html#why-use-open-source-software",
     "title": "Open Science, Software, and Coding",
     "section": "Why use Open-Source Software?",
-    "text": "Why use Open-Source Software?\nTransparency and Reproducibility\nResearchers can inspect how the software works, verify and reproduce results.\nCost-Effectiveness\nAvoid expensive licensing fees. Accessible regardless of budget.\nCustomization and Flexibility\nResearchers can modify or extend the software to fit their specific needs.\nCommunity Support and Collaboration\nCommunities collaborate on software development, accelerating innovation.\nLongevity and Independence\nLess likely to disappear if a company stops supporting it.\nSkill Development\nTeaches valuable programming, data analysis, and software development skills.\nEncourages Open Science\nOpen-source software aligns with the principles of open access and open data."
+    "text": "Why use Open-Source Software?\nTransparency and Reproducibility\nResearchers can inspect how the software works, verify and reproduce results.\nCost-Effectiveness\nAvoid expensive licensing fees. Accessible regardless of budget.\nCustomization and Flexibility\nResearchers can modify or extend the software to fit their specific needs.\nCommunity Support and Collaboration\nCommunities collaborate on software development, accelerating innovation.\nLongevity and Independence\nLess likely to disappear if a company stops supporting it.\nEncourages Open Science\nOpen-source software aligns with the principles of open access and open data."
   },
   {
     "objectID": "index.html#what-resources-are-available-1",
@@ -357,10 +357,10 @@
     "text": "Books\n\nIntro to R\nR for Data Science\nAdvanced R\nggplot2: Elegant Graphics for Data Analysis\nR Packages\nGeocomputation with R\nRemote Sensing Image Analysis with R"
   },
   {
-    "objectID": "index.html#moving-forward-1",
-    "href": "index.html#moving-forward-1",
+    "objectID": "index.html#where-do-we-go-from-here-1",
+    "href": "index.html#where-do-we-go-from-here-1",
     "title": "Open Science, Software, and Coding",
-    "section": "Moving forward",
-    "text": "Moving forward"
+    "section": "Where do we go from here?",
+    "text": "Where do we go from here?\n\nMoving forward\n\nDevelop a ‘Departmental Ethos on Open Science’?\nStandardise the tools we teach?\n\nSurvey"
   }
 ]
